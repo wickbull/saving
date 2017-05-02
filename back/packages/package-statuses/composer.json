@@ -1,0 +1,19 @@
+{
+    "name": "starlight/package-statuses",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sergiy Litvinchuk",
+            "email": "sergiy.litvinchuk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Starlight\\PackageStatuses": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

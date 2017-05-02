@@ -1,0 +1,37 @@
+{
+  "name": "Starlight",
+  "version": "0.0.1",
+  "description": "Admin web.",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.*",
+    "animate.css": "3.2.*",
+    "bootstrap": "3.3.*",
+    "bootstrap-filestyle": "1.1.*",
+    "bootstrap-chosen": "1.0.*",
+    "chosen": "https://github.com/harvesthq/chosen/releases/download/v1.3.0/chosen_v1.3.0.zip",
+    "ckeditor-codemirror": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/releases/download/v1.13/CKEditor-CodeMirror-Plugin.zip",
+    "font-awesome": "4.2.*",
+    "moment": "2.*",
+    "bootstrap-daterangepicker": "1.3.*",
+    "bootstrap-tagsinput": "0.4.*",
+    "underscore": "1.8.*",
+    "yepnope": "2.*",
+    "async": "0.9.*",
+    "ckeditor": "4.*",
+    "blueimp-file-upload": "9.*",
+    "jquery.ui": "1.11.*",
+    "cropper": "~0.9.3",
+    "typeahead.js": "~0.11.1",
+    "garlicjs": "~1.2.4",
+    "ckeditor-oembed-plugin": "*",
+    "jsdifflib": "https://github.com/cemerick/jsdifflib.git"
+  }
+}

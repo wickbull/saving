@@ -1,0 +1,19 @@
+{
+    "name": "starlight/package-news",
+    "description": "",
+    "authors": [
+        {
+            "name": "Sergiy Litvinchuk",
+            "email": "sergiy.litvinchuk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Starlight\\PackageNews": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

@@ -1,0 +1,9 @@
+{
+	"publicDir": "static/control",
+	"cssOutput": "static/control/css",
+	"jsOutput": "static/control/js",
+	"bowerDir": "static/control/vendor",
+	"babel": {
+		"enabled": false
+	}
+}

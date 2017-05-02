@@ -1,0 +1,14 @@
+{
+  "name": "ckeditor-codemirror",
+  "_cacheHeaders": {
+    "ETag": "\"760626b16d85d9dda2c888696aefb337\"",
+    "Last-Modified": "Wed, 08 Jul 2015 10:04:15 GMT",
+    "Content-Length": "217315",
+    "Content-Type": "application/octet-stream",
+    "Content-Disposition": "attachment; filename=CKEditor-CodeMirror-Plugin.zip"
+  },
+  "_release": "e-tag:760626b16",
+  "_source": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/releases/download/v1.13/CKEditor-CodeMirror-Plugin.zip",
+  "_target": "*",
+  "_originalSource": "https://github.com/w8tcha/CKEditor-CodeMirror-Plugin/releases/download/v1.13/CKEditor-CodeMirror-Plugin.zip"
+}

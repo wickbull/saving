@@ -1,0 +1,14 @@
+{
+    "name": "starlight/package-languages",
+    "description": "",
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.0.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Starlight\\PackageLanguages": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}

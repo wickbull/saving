@@ -1,0 +1,35 @@
+.c-callout {
+	margin: 1em 40px;
+	padding: 1em 8px 1em 25px;
+	border: 1px solid #ccc;
+	background-color: #f1f1f1;
+}
+
+.cke_panel_listItem .c-callout {
+	margin: 2px 5px;
+	padding: 2px 2px 2px 5px;
+}
+
+img {
+	max-width: 90%;
+}
+
+.bobbinet {
+	background-color: rgba(51, 122, 183, 0.5);
+	position: relative;
+}
+
+.bobbinet:before {
+	left: 0;
+	background-color: #d9534f;
+	content: '';
+	position: absolute;
+	top: -3px;
+	width: 100%;
+	height: 3px;
+}
+
+.bobbinet-bottom:before {
+	top: auto;
+	bottom: -3px;
+}

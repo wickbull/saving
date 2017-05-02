@@ -1,0 +1,2462 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Starlight Ideil Control\n"
+"POT-Creation-Date: 2017-01-31 09:46+0200\n"
+"PO-Revision-Date: 2017-02-03 11:51+0200\n"
+"Last-Translator: Ideil <welcome@ideil.com>\n"
+"Language-Team: Ideil <welcome@ideil.com>\n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-KeywordsList: _\n"
+"X-Poedit-Basepath: ../../../../../app\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: Http/Controllers\n"
+"X-Poedit-SearchPath-1: ../resources/views\n"
+"X-Poedit-SearchPath-2: ../vendor/starlight\n"
+"X-Poedit-SearchPath-3: ../packages\n"
+"X-Poedit-SearchPath-4: Commands\n"
+"X-Poedit-SearchPath-5: ../var/views/messages\n"
+
+#: ../packages/package-chairs/src/Starlight/PackageChairs/Controllers/PackageChairsController.php:95
+#: ../packages/package-chairs/src/Starlight/PackageChairs/Controllers/PackageChairsController.php:99
+#: ../var/views/messages/1492067baca6c009c99ddbc8d1fe0492.php:95
+#: ../var/views/messages/1492067baca6c009c99ddbc8d1fe0492.php:99
+msgid "Chair created successfully"
+msgstr "Кафедру успішно створено"
+
+#: ../packages/package-chairs/src/Starlight/PackageChairs/Controllers/PackageChairsController.php:143
+#: ../packages/package-chairs/src/Starlight/PackageChairs/Controllers/PackageChairsController.php:147
+#: ../var/views/messages/1492067baca6c009c99ddbc8d1fe0492.php:143
+#: ../var/views/messages/1492067baca6c009c99ddbc8d1fe0492.php:147
+msgid "Chair saved successfully"
+msgstr "Кафедру успішно збережено"
+
+#: ../packages/package-chairs/src/Starlight/PackageChairs/Controllers/PackageChairsController.php:177
+#: ../var/views/messages/1492067baca6c009c99ddbc8d1fe0492.php:177
+msgid "Chair deleted successfully"
+msgstr "Кафедру успішно видалено"
+
+#: ../packages/package-chairs/src/Starlight/PackageChairs/PackageChairsServiceProvider.php:30
+#: ../var/views/messages/3145fcad4517574a1b64a9c84362b603.php:10
+#: ../var/views/messages/49b39665a3dd134ade32456373583575.php:2
+#: ../var/views/messages/5355a3d142951ff4eeca81552481db27.php:30
+#: ../var/views/messages/7a083fe748ebd430a4627d5ae31adbe0.php:1
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:22
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:16
+msgid "Chairs"
+msgstr "Кафедри"
+
+#: ../packages/package-documents/src/Starlight/PackageDocuments/Controllers/PackageDocumentsController.php:44
+#: ../var/views/messages/10e35356c8db1c75484c5d47a67c057e.php:44
+msgid "New document created successfully"
+msgstr "Новий документ успішно створено"
+
+#: ../packages/package-documents/src/Starlight/PackageDocuments/Controllers/PackageDocumentsController.php:78
+#: ../var/views/messages/10e35356c8db1c75484c5d47a67c057e.php:78
+msgid "Document saved successfully"
+msgstr "Документ успішно збережено"
+
+#: ../packages/package-documents/src/Starlight/PackageDocuments/Controllers/PackageDocumentsController.php:91
+#: ../var/views/messages/10e35356c8db1c75484c5d47a67c057e.php:91
+msgid "Document deleted successfully"
+msgstr "Документ успішно видалено"
+
+#: ../packages/package-documents/src/Starlight/PackageDocuments/PackageDocumentsServiceProvider.php:29
+#: ../var/views/messages/68ca1912b7cf5cb476d5aa710b333e45.php:9
+#: ../var/views/messages/807253d71079d5682e9536f15b2b859a.php:13
+#: ../var/views/messages/c343c8b69421d990152d755628b6536c.php:29
+#: ../var/views/messages/cc712d078d0d679afc9c7791b8f330fd.php:13
+msgid "Documents"
+msgstr "Документи"
+
+#: ../packages/package-laboratories/src/Starlight/PackageLaboratories/Controllers/PackageLaboratoriesController.php:73
+#: ../packages/package-laboratories/src/Starlight/PackageLaboratories/Controllers/PackageLaboratoriesController.php:77
+#: ../var/views/messages/5198675983000c9fc02c0e2d7c3c762a.php:73
+#: ../var/views/messages/5198675983000c9fc02c0e2d7c3c762a.php:77
+msgid "Laboratory created successfully"
+msgstr "Лабораторію успішно створено"
+
+#: ../packages/package-laboratories/src/Starlight/PackageLaboratories/Controllers/PackageLaboratoriesController.php:119
+#: ../packages/package-laboratories/src/Starlight/PackageLaboratories/Controllers/PackageLaboratoriesController.php:123
+#: ../var/views/messages/5198675983000c9fc02c0e2d7c3c762a.php:119
+#: ../var/views/messages/5198675983000c9fc02c0e2d7c3c762a.php:123
+msgid "Laboratory saved successfully"
+msgstr "Лабораторію успішно збережено"
+
+#: ../packages/package-laboratories/src/Starlight/PackageLaboratories/Controllers/PackageLaboratoriesController.php:143
+#: ../var/views/messages/5198675983000c9fc02c0e2d7c3c762a.php:143
+msgid "Laboratory deleted successfully"
+msgstr "Лабораторію успішно видалено"
+
+#: ../packages/package-laboratories/src/Starlight/PackageLaboratories/PackageLaboratoriesServiceProvider.php:30
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:25
+#: ../var/views/messages/a8290c8e7162d329f24a62e6dcbc1949.php:30
+#: ../var/views/messages/aa64063c243d9456868ba55c2658f1ef.php:2
+#: ../var/views/messages/d4052377878e5fb244bc6c4477e2dfdc.php:10
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:16
+msgid "Laboratories"
+msgstr "Лабораторії"
+
+#: ../packages/package-languages/src/Starlight/PackageLanguages/Controllers/PackageLanguagesController.php:50
+#: ../var/views/messages/587299c4969bb9ef93c6757b51e63c22.php:50
+msgid "Language created successfully"
+msgstr "Мову успішно створено"
+
+#: ../packages/package-languages/src/Starlight/PackageLanguages/Controllers/PackageLanguagesController.php:76
+#: ../var/views/messages/587299c4969bb9ef93c6757b51e63c22.php:76
+msgid "Language updated successfully"
+msgstr "Мову успішно оновлено"
+
+#: ../packages/package-languages/src/Starlight/PackageLanguages/PackageLanguagesServiceProvider.php:28
+#: ../var/views/messages/1e1253b56983f0b37a4c0f91e8f007c4.php:10
+#: ../var/views/messages/209c535d9f5398bf9bc0546832e8e72c.php:10
+#: ../var/views/messages/8750c2a61fce43013b2f502ec1595dfa.php:10
+#: ../var/views/messages/df0e7c50e418038bd0f8970185fa8827.php:28
+msgid "Languages"
+msgstr "Мови"
+
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/Controllers/PackageLecturersController.php:93
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/Controllers/PackageLecturersController.php:97
+#: ../var/views/messages/3b82c1c9b8be8698693bfe031ccb7581.php:93
+#: ../var/views/messages/3b82c1c9b8be8698693bfe031ccb7581.php:97
+msgid "Lecturer created successfully"
+msgstr "Викладача успішно створено"
+
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/Controllers/PackageLecturersController.php:139
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/Controllers/PackageLecturersController.php:143
+#: ../var/views/messages/3b82c1c9b8be8698693bfe031ccb7581.php:139
+#: ../var/views/messages/3b82c1c9b8be8698693bfe031ccb7581.php:143
+msgid "Lecturer saved successfully"
+msgstr "Викладача успішно збережено"
+
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/Controllers/PackageLecturersController.php:173
+#: ../var/views/messages/3b82c1c9b8be8698693bfe031ccb7581.php:173
+msgid "Lecturer deleted successfully"
+msgstr "Викладача успішно видалено"
+
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/Models/Lecturer.php:71
+#: ../packages/package-news/src/Starlight/PackageNews/Models/News.php:79
+#: ../packages/package-publications/src/Starlight/PackagePublications/Models/Publication.php:79
+#: ../var/views/messages/775af8258a266330572191a01be186f7.php:19
+#: ../var/views/messages/88b0e2d97741a93ea0c1771465f7ffd9.php:71
+#: ../var/views/messages/8bd76678d0ab20ef3e2d3e57e7c759ab.php:79
+#: ../var/views/messages/e18ff59b0d2531ea14aecafeea06df16.php:79
+#: ../var/views/messages/eaefa74b20805297c1a141f405f131a8.php:32
+#: ../vendor/starlight/package-galleries/src/Starlight/PackageGalleries/Models/GalleryAttachableItem.php:32
+#: ../vendor/starlight/package-galleries/src/Starlight/PackageGalleries/Models/GalleryItem.php:19
+msgid "Image"
+msgstr "Зображення"
+
+#: ../packages/package-lecturers/src/Starlight/PackageLecturers/PackageLecturersServiceProvider.php:31
+#: ../var/views/messages/024413a6c961c22f1d395620474db760.php:25
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:16
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:22
+#: ../var/views/messages/36da847c5f74aea1d55f631b148215c5.php:10
+#: ../var/views/messages/aa0f3f0bbd098bc5103b7d8aaa2f1b1d.php:2
+#: ../var/views/messages/b316fbb115a678a64c2d0d4200e51704.php:31
+#: ../var/views/messages/f68113d875b503ef915b51692cc12897.php:1
+msgid "Lecturers"
+msgstr "Викладачі"
+
+#: ../packages/package-news-categories/src/Starlight/PackageNewsCategories/Controllers/PackageNewsCategoriesController.php:50
+#: ../packages/package-publications-categories/src/Starlight/PackagePublicationsCategories/Controllers/PackagePublicationsCategoriesController.php:50
+#: ../var/views/messages/39e114736aef21053d4c1225dab8136e.php:50
+#: ../var/views/messages/6abfecdab6e58a0f7e458e4573418184.php:50
+msgid "Category created successfully"
+msgstr "Категорію успішно створено"
+
+#: ../packages/package-news-categories/src/Starlight/PackageNewsCategories/Controllers/PackageNewsCategoriesController.php:80
+#: ../packages/package-publications-categories/src/Starlight/PackagePublicationsCategories/Controllers/PackagePublicationsCategoriesController.php:80
+#: ../var/views/messages/39e114736aef21053d4c1225dab8136e.php:80
+#: ../var/views/messages/6abfecdab6e58a0f7e458e4573418184.php:80
+msgid "Category saved successfully"
+msgstr "Категорію успішно збережено"
+
+#: ../packages/package-news-categories/src/Starlight/PackageNewsCategories/Controllers/PackageNewsCategoriesController.php:93
+#: ../var/views/messages/39e114736aef21053d4c1225dab8136e.php:93
+msgid "News Category deleted successfully"
+msgstr "Категорію  новин успішно видалено"
+
+#: ../packages/package-news-categories/src/Starlight/PackageNewsCategories/PackageNewsCategoriesServiceProvider.php:28
+#: ../packages/package-news/src/Starlight/PackageNews/PackageNewsServiceProvider.php:28
+#: ../packages/package-news/src/Starlight/PackageNews/PackageNewsServiceProvider.php:29
+#: ../var/views/messages/024413a6c961c22f1d395620474db760.php:15
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:25
+#: ../var/views/messages/1d41032a4625b43ce77bad5290b46e46.php:10
+#: ../var/views/messages/25e7beae6756e706f1c7c9d50c99459e.php:2
+#: ../var/views/messages/70f6dbc77fd24a6ad84db809f655ff0b.php:1
+#: ../var/views/messages/723146042022254568a3b49a6e8e7304.php:28
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:16
+#: ../var/views/messages/bdb114bf65d958a8c909ee897b01303b.php:28
+#: ../var/views/messages/bdb114bf65d958a8c909ee897b01303b.php:29
+msgid "News"
+msgstr "Новини"
+
+#: ../packages/package-news-categories/src/Starlight/PackageNewsCategories/PackageNewsCategoriesServiceProvider.php:29
+#: ../var/views/messages/723146042022254568a3b49a6e8e7304.php:29
+msgid "News categories"
+msgstr "Категорія новин"
+
+#: ../packages/package-news/src/Starlight/PackageNews/Controllers/PackageNewsController.php:74
+#: ../packages/package-news/src/Starlight/PackageNews/Controllers/PackageNewsController.php:78
+#: ../var/views/messages/a1ae0eb6bf76d6236b49457241fee24f.php:74
+#: ../var/views/messages/a1ae0eb6bf76d6236b49457241fee24f.php:78
+msgid "News created successfully"
+msgstr "Новину успішно створено"
+
+#: ../packages/package-news/src/Starlight/PackageNews/Controllers/PackageNewsController.php:130
+#: ../packages/package-news/src/Starlight/PackageNews/Controllers/PackageNewsController.php:134
+#: ../var/views/messages/a1ae0eb6bf76d6236b49457241fee24f.php:130
+#: ../var/views/messages/a1ae0eb6bf76d6236b49457241fee24f.php:134
+msgid "News saved successfully"
+msgstr "Новину успішно збережено"
+
+#: ../packages/package-news/src/Starlight/PackageNews/Controllers/PackageNewsController.php:154
+#: ../var/views/messages/a1ae0eb6bf76d6236b49457241fee24f.php:154
+msgid "News deleted successfully"
+msgstr "Новину успішно видалено"
+
+#: ../packages/package-pages/src/Starlight/PackagePages/Controllers/PackagePagesController.php:51
+#: ../var/views/messages/5de9cd56b8bf0d4a55968efee4bfce6f.php:51
+msgid "Page created successfully"
+msgstr "Сторінку успішно створено"
+
+#: ../packages/package-pages/src/Starlight/PackagePages/Controllers/PackagePagesController.php:84
+#: ../var/views/messages/5de9cd56b8bf0d4a55968efee4bfce6f.php:84
+msgid "Page saved successfully"
+msgstr "Сторінку успішно збережено"
+
+#: ../packages/package-pages/src/Starlight/PackagePages/Controllers/PackagePagesController.php:97
+#: ../var/views/messages/5de9cd56b8bf0d4a55968efee4bfce6f.php:97
+msgid "Page deleted successfully"
+msgstr "Сторінку успішно видалено"
+
+#: ../packages/package-pages/src/Starlight/PackagePages/PackagePagesServiceProvider.php:27
+#: ../var/views/messages/6e99c74c269f5a3b0d70e970c3219504.php:15
+#: ../var/views/messages/b21aab5ab1856b615817d88762a2aa01.php:10
+#: ../var/views/messages/b704594609e693da2d645379ab35062d.php:27
+#: ../var/views/messages/fe2e0530aed8c57d18f31bae6fb4042a.php:15
+msgid "Pages"
+msgstr "Сторінки"
+
+#: ../packages/package-publications-categories/src/Starlight/PackagePublicationsCategories/Controllers/PackagePublicationsCategoriesController.php:93
+#: ../var/views/messages/6abfecdab6e58a0f7e458e4573418184.php:93
+msgid "Publications Category deleted successfully"
+msgstr "Категорію публікацій успішно видалено"
+
+#: ../packages/package-publications-categories/src/Starlight/PackagePublicationsCategories/PackagePublicationsCategoriesServiceProvider.php:29
+#: ../packages/package-publications/src/Starlight/PackagePublications/PackagePublicationsServiceProvider.php:29
+#: ../packages/package-publications/src/Starlight/PackagePublications/PackagePublicationsServiceProvider.php:30
+#: ../var/views/messages/024413a6c961c22f1d395620474db760.php:10
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:16
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:25
+#: ../var/views/messages/681c52a129a12a1858c8529e23dd914d.php:29
+#: ../var/views/messages/681c52a129a12a1858c8529e23dd914d.php:30
+#: ../var/views/messages/a06dbc150e02452726bc313b662c4bb5.php:29
+#: ../var/views/messages/ac8f8a9eca2fb1b7dc2318243382e036.php:1
+#: ../var/views/messages/b53a0d9802fc98663c37140569f39648.php:10
+#: ../var/views/messages/d307629f214487513cdf05affc285cbb.php:2
+msgid "Publications"
+msgstr "Публікації"
+
+#: ../packages/package-publications-categories/src/Starlight/PackagePublicationsCategories/PackagePublicationsCategoriesServiceProvider.php:30
+#: ../var/views/messages/a06dbc150e02452726bc313b662c4bb5.php:30
+msgid "Publications categories"
+msgstr "Категорія публікацій"
+
+#: ../packages/package-publications/src/Starlight/PackagePublications/Controllers/PackagePublicationsController.php:74
+#: ../packages/package-publications/src/Starlight/PackagePublications/Controllers/PackagePublicationsController.php:78
+#: ../var/views/messages/7ff05c98ebf3590e11870360e7a7a316.php:74
+#: ../var/views/messages/7ff05c98ebf3590e11870360e7a7a316.php:78
+msgid "Publication created successfully"
+msgstr "Публікацію успішно створено"
+
+#: ../packages/package-publications/src/Starlight/PackagePublications/Controllers/PackagePublicationsController.php:130
+#: ../packages/package-publications/src/Starlight/PackagePublications/Controllers/PackagePublicationsController.php:134
+#: ../var/views/messages/7ff05c98ebf3590e11870360e7a7a316.php:130
+#: ../var/views/messages/7ff05c98ebf3590e11870360e7a7a316.php:134
+msgid "Publication saved successfully"
+msgstr "Публікацію успішно збережено"
+
+#: ../packages/package-publications/src/Starlight/PackagePublications/Controllers/PackagePublicationsController.php:154
+#: ../var/views/messages/7ff05c98ebf3590e11870360e7a7a316.php:154
+msgid "Publication deleted successfully"
+msgstr "Публікацію успішно видалено"
+
+#: ../packages/package-settings/src/Starlight/PackageSettings/Controllers/PackageSettingsController.php:44
+#: ../var/views/messages/b5604e30ea827515031fbdfe357270f4.php:44
+msgid "Setting created successfully"
+msgstr "Налаштування успішно створено"
+
+#: ../packages/package-settings/src/Starlight/PackageSettings/Controllers/PackageSettingsController.php:70
+#: ../var/views/messages/b5604e30ea827515031fbdfe357270f4.php:70
+msgid "Setting updated successfully"
+msgstr "Налаштування успішно оновлено"
+
+#: ../packages/package-settings/src/Starlight/PackageSettings/PackageSettingsServiceProvider.php:27
+#: ../var/views/messages/1cdfd66ee2c983a9083ad019eec5782c.php:10
+#: ../var/views/messages/bedff32cce35ec764863eaeecd00e1ad.php:27
+#: ../var/views/messages/d8042ea700347f92987129a725503da4.php:10
+#: ../var/views/messages/eddf5a05d9fe2b527eec3be4f595b40e.php:10
+msgid "Settings"
+msgstr "Налаштування"
+
+#: ../packages/package-statuses/src/Starlight/PackageStatuses/Controllers/PackageStatusesController.php:40
+#: ../var/views/messages/0f6e32ca698e521c7feaf227239ebe8e.php:40
+msgid "Status created successfully"
+msgstr "Статус успішно створено"
+
+#: ../packages/package-statuses/src/Starlight/PackageStatuses/Controllers/PackageStatusesController.php:65
+#: ../var/views/messages/0f6e32ca698e521c7feaf227239ebe8e.php:65
+msgid "Status saved successfully"
+msgstr "Статус успішно збережно"
+
+#: ../packages/package-statuses/src/Starlight/PackageStatuses/PackageStatusesServiceProvider.php:31
+#: ../var/views/messages/3808900bda7bb339c7223b97e4bb1f0c.php:10
+#: ../var/views/messages/4fe2c6625a461676a1be1efd84b037b1.php:10
+#: ../var/views/messages/a395c52a7f4fb3fdde638fa54f83f1a3.php:10
+#: ../var/views/messages/a42873e2987a0670ec4e582d32dc48dd.php:2
+#: ../var/views/messages/ba45bb0a2cb576b81814308a922fb4e6.php:31
+msgid "Statuses"
+msgstr "Статуси"
+
+#: ../packages/package-tags-groups/src/Starlight/PackageTagsGroups/Controllers/PackageTagsGroupsController.php:57
+#: ../var/views/messages/abd53c137c3a195b2abccb2acd2d4700.php:57
+msgid "Group tags created successfully"
+msgstr "Групу тегів успішно створено"
+
+#: ../packages/package-tags-groups/src/Starlight/PackageTagsGroups/Controllers/PackageTagsGroupsController.php:100
+#: ../var/views/messages/abd53c137c3a195b2abccb2acd2d4700.php:100
+msgid "Group tags saved successfully"
+msgstr "Групу тегів успішно збережено"
+
+#: ../packages/package-tags-groups/src/Starlight/PackageTagsGroups/PackageTagsGroupsServiceProvider.php:29
+#: ../var/views/messages/6b6c2b058515c7c16700bb6987ebe909.php:29
+msgid "Tags groups"
+msgstr "Групи тегів"
+
+#: ../packages/package-tags/src/Starlight/PackageTags/Controllers/PackageTagsController.php:52
+#: ../var/views/messages/a1532ca79a3eb56cf96d263d1641e64a.php:52
+msgid "Tag created successfully"
+msgstr "Тег успішно створено"
+
+#: ../packages/package-tags/src/Starlight/PackageTags/Controllers/PackageTagsController.php:78
+#: ../var/views/messages/a1532ca79a3eb56cf96d263d1641e64a.php:78
+msgid "Tag has been replaced"
+msgstr "Тег успішно змінено"
+
+#: ../packages/package-tags/src/Starlight/PackageTags/Controllers/PackageTagsController.php:85
+#: ../var/views/messages/a1532ca79a3eb56cf96d263d1641e64a.php:85
+msgid "Tag saved successfully"
+msgstr "Тег успішно збережено"
+
+#: ../packages/package-tags/src/Starlight/PackageTags/Controllers/PackageTagsController.php:97
+#: ../var/views/messages/a1532ca79a3eb56cf96d263d1641e64a.php:97
+msgid "Tag deleted successfully"
+msgstr "Тег успішно видалено"
+
+#: ../packages/package-tags/src/Starlight/PackageTags/PackageTagsServiceProvider.php:31
+#: ../var/views/messages/18250406a2ffe949754091cbb22e59ed.php:10
+#: ../var/views/messages/4f7ef2d54a6ebe6057ff8140807c182b.php:2
+#: ../var/views/messages/8c84536775bdd575e964243acf11a13d.php:31
+#: ../var/views/messages/9881b527c5b9def91eee2b198f2fb18b.php:10
+#: ../var/views/messages/b53f321332409371db511920093bad3b.php:16
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:34
+msgid "Tags"
+msgstr "Теги"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:41
+#: ../packages/package-users/src/Starlight/PackageUsers/PackageUsersServiceProvider.php:26
+#: ../var/views/messages/024413a6c961c22f1d395620474db760.php:20
+#: ../var/views/messages/041ba0ac264f4be802387616e5eb7e73.php:10
+#: ../var/views/messages/4507a2503a235bb151521abfe8293bea.php:28
+#: ../var/views/messages/a976796cd48b2ddd1f960a7b50f2c438.php:10
+#: ../var/views/messages/afb5e82eeca32126a6fe24b49b88496b.php:26
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:41
+#: ../vendor/starlight/package-users-teams/src/Starlight/PackageUsersTeams/PackageUsersTeamsServiceProvider.php:28
+msgid "Users"
+msgstr "Користувачі"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:78
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:78
+msgid "User created successfully"
+msgstr "Користувача успішно створено"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:108
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:108
+msgid "Users saved successfully"
+msgstr "Користувача успішно збережено"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:122
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:179
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:122
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:179
+msgid "Support Starlight"
+msgstr "Підтримка Starlight"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:122
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:122
+msgid "Password Reset for Starlight Control Center account"
+msgstr "Відновлення паролю для облікового запису Центру керування Starlight"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:126
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:183
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:126
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:183
+msgid "Mail with further instructions was sent to user"
+msgstr ""
+"Електронного листа з подальшими інструкціями було відправлено користувачу"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:166
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:166
+msgid "Password was reseted successfully"
+msgstr "Пароль успішно відновлено"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:179
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:179
+msgid "Invite to Starlight Control Center"
+msgstr "Запросити до Центру керування Starlight"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:203
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:203
+msgid "Your have an administrator account now. Please log in."
+msgstr ""
+"Наразі у вас обліковий запис адміністратора. Будь ласка, увійдіть у "
+"систему."
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Controllers/PackageUsersController.php:215
+#: ../var/views/messages/b37c2f52d4c78a0e9091a5b7b3b465b8.php:215
+msgid "User deleted successfully"
+msgstr "Користувача успішно видалено"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/Models/User.php:68
+#: ../var/views/messages/c17bab8fbc3815d64edeb053f70830fa.php:68
+msgid "Photo"
+msgstr "Фото"
+
+#: ../packages/package-users/src/Starlight/PackageUsers/PackageUsersServiceProvider.php:27
+#: ../var/views/messages/afb5e82eeca32126a6fe24b49b88496b.php:27
+msgid "List"
+msgstr "Перелік"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:1
+msgid "Laboratory edit"
+msgstr "Редагування лабораторії"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:20
+msgid "Delete laboratory"
+msgstr "Видалити лабораторію"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:26
+msgid "Edit laboratory"
+msgstr "Редагування лабораторії"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:45
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:45
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:39
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:45
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:39
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:39
+msgid "Main form"
+msgstr "Основна форма"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:76
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:75
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:68
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:69
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:72
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:74
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:68
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:74
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:71
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:70
+msgid "Preview"
+msgstr "Попередній перегляд"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:78
+#: ../var/views/messages/041ba0ac264f4be802387616e5eb7e73.php:28
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:77
+#: ../var/views/messages/08749cc35a0f0d1b8b8025ffabd89276.php:28
+#: ../var/views/messages/13e38ee39294132cf5fd55b43346874d.php:37
+#: ../var/views/messages/14f11d762710784872daf1e60ad6eba7.php:32
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:70
+#: ../var/views/messages/16c76a3b059a6000f7803896fcd41aad.php:28
+#: ../var/views/messages/1cdfd66ee2c983a9083ad019eec5782c.php:42
+#: ../var/views/messages/209c535d9f5398bf9bc0546832e8e72c.php:32
+#: ../var/views/messages/238e452f2eda433a7e561477cbd519ac.php:39
+#: ../var/views/messages/28ee1ef6a07fb0065274429f99c37eb5.php:39
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:73
+#: ../var/views/messages/2c45748e7fa723aed5b2bc804577254e.php:32
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:76
+#: ../var/views/messages/37be65b7e86a3e5d5f933a98b4448372.php:38
+#: ../var/views/messages/38fe6d65ca8c2dcc696c7fc45eb00e66.php:39
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:76
+#: ../var/views/messages/4fe2c6625a461676a1be1efd84b037b1.php:28
+#: ../var/views/messages/6e99c74c269f5a3b0d70e970c3219504.php:47
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:70
+#: ../var/views/messages/807253d71079d5682e9536f15b2b859a.php:31
+#: ../var/views/messages/8750c2a61fce43013b2f502ec1595dfa.php:34
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:78
+#: ../var/views/messages/95497477519d77e1ec7f0da7aee1a27f.php:65
+#: ../var/views/messages/9881b527c5b9def91eee2b198f2fb18b.php:28
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:75
+#: ../var/views/messages/a176631344b91ab61b74602ded1469aa.php:28
+#: ../var/views/messages/a395c52a7f4fb3fdde638fa54f83f1a3.php:28
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:48
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:82
+#: ../var/views/messages/b53f321332409371db511920093bad3b.php:32
+#: ../var/views/messages/cac85ac5aa91665d0aeccf9dc4ef5e7b.php:44
+#: ../var/views/messages/cc203baeed70bada17f3f7a4b041251c.php:39
+#: ../var/views/messages/cc712d078d0d679afc9c7791b8f330fd.php:45
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:72
+#: ../var/views/messages/d8042ea700347f92987129a725503da4.php:32
+#: ../var/views/messages/e48e7b19157d1bb4a4b821e445f9defd.php:39
+#: ../var/views/messages/ec37021b2de6cf559f24111ba2fe3ac8.php:48
+#: ../var/views/messages/fe2e0530aed8c57d18f31bae6fb4042a.php:40
+msgid "Cancel"
+msgstr "Скасувати"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:79
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:78
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:77
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:77
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:79
+msgid "Save and close"
+msgstr "Зберегти та закрити"
+
+#: ../var/views/messages/00aeb347cbff86f16df7b415c804baaf.php:81
+msgid "Save laboratory"
+msgstr "Зберегти лабораторію"
+
+#: ../var/views/messages/024413a6c961c22f1d395620474db760.php:1
+msgid "Home"
+msgstr "Головна"
+
+#: ../var/views/messages/041ba0ac264f4be802387616e5eb7e73.php:1
+#: ../var/views/messages/041ba0ac264f4be802387616e5eb7e73.php:29
+msgid "Create User"
+msgstr "Створити користувача"
+
+#: ../var/views/messages/041ba0ac264f4be802387616e5eb7e73.php:11
+msgid "Create user"
+msgstr "Створити користувача"
+
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:1
+msgid "News edit"
+msgstr "Редагування новин"
+
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:20
+msgid "Delete news"
+msgstr "Видалити новину"
+
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:26
+msgid "Edit news"
+msgstr "Редагувати новину"
+
+#: ../var/views/messages/0469ccc5fba792e4bc14687a491ecca6.php:80
+msgid "Save news"
+msgstr "Зберегти новину"
+
+#: ../var/views/messages/06ddd870e95b535ac560a99a4213621d.php:10
+msgid "root"
+msgstr "джерело"
+
+#: ../var/views/messages/06ddd870e95b535ac560a99a4213621d.php:28
+msgid "directory"
+msgstr "каталог"
+
+#: ../var/views/messages/08749cc35a0f0d1b8b8025ffabd89276.php:1
+#: ../var/views/messages/08749cc35a0f0d1b8b8025ffabd89276.php:29
+msgid "Create Users Team"
+msgstr "Створити групу користувачів"
+
+#: ../var/views/messages/08749cc35a0f0d1b8b8025ffabd89276.php:10
+#: ../var/views/messages/37be65b7e86a3e5d5f933a98b4448372.php:11
+#: ../var/views/messages/c1aa8aa1b5c778b999a177b9aa82410c.php:10
+msgid "Users Teams"
+msgstr "Групи користувачів"
+
+#: ../var/views/messages/08749cc35a0f0d1b8b8025ffabd89276.php:11
+#: ../var/views/messages/c1aa8aa1b5c778b999a177b9aa82410c.php:15
+msgid "Create users team"
+msgstr "Створити групу користувачів"
+
+#: ../var/views/messages/0c9922bd6be17075abe463f374053ba2.php:12
+#: ../var/views/messages/b6eb2bf8c11c2eac1c6766b585acc5ee.php:17
+#: ../var/views/messages/be727f2637d51b1bfb9dc9c9ed77220d.php:15
+msgid "Dashboard"
+msgstr "Панель інструментів"
+
+#: ../var/views/messages/0dbe7a40450b4f46f22f0bbeb54347aa.php:1
+msgid "You were invited to Starlight Control Center as administrator."
+msgstr ""
+"Вас було запрошено до Центру керування Starlight у якості адміністратора"
+
+#: ../var/views/messages/0dbe7a40450b4f46f22f0bbeb54347aa.php:2
+#: ../var/views/messages/da0e65125dfedd7a01c036e34f5a4e63.php:2
+msgid "Username:"
+msgstr "Користувач:"
+
+#: ../var/views/messages/0dbe7a40450b4f46f22f0bbeb54347aa.php:3
+#: ../var/views/messages/da0e65125dfedd7a01c036e34f5a4e63.php:3
+msgid "If this was a mistake, just ignore this email and nothing will happen"
+msgstr "Якщо це сталось помилково, просто проігноруйте цей лист"
+
+#: ../var/views/messages/0dbe7a40450b4f46f22f0bbeb54347aa.php:4
+msgid "To confirm this action, visit the following address:"
+msgstr "Для підтвердження дії перейдіть за посиланням:"
+
+#: ../var/views/messages/12cf72fb2689730bb6be59aea4f52933.php:48
+#: ../var/views/messages/12cf72fb2689730bb6be59aea4f52933.php:78
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:24
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:50
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:20
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:45
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:32
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:62
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:13
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:35
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:32
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:62
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:13
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:35
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:32
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:62
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:24
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:50
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:32
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:62
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:32
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:62
+#: ../var/views/messages/fe220a8db0df95046c1dea2de0fa8c9d.php:30
+msgid "Edit"
+msgstr "Редагування"
+
+#: ../var/views/messages/13e38ee39294132cf5fd55b43346874d.php:1
+#: ../var/views/messages/13e38ee39294132cf5fd55b43346874d.php:16
+msgid "Add fragment"
+msgstr "Додати фрагмент"
+
+#: ../var/views/messages/13e38ee39294132cf5fd55b43346874d.php:15
+#: ../var/views/messages/6696d7f134b9759a2e6c72d2e4d8c999.php:29
+#: ../var/views/messages/cac85ac5aa91665d0aeccf9dc4ef5e7b.php:15
+#: ../var/views/messages/f1c70cc28542227fb4d66554bc177440.php:10
+#: ../vendor/starlight/package-fragments/src/Starlight/PackageFragments/PackageFragmentsServiceProvider.php:29
+msgid "Fragments"
+msgstr "Фрагменти"
+
+#: ../var/views/messages/13e38ee39294132cf5fd55b43346874d.php:38
+msgid "Create Fragment"
+msgstr "Створити фрагмент"
+
+#: ../var/views/messages/14f11d762710784872daf1e60ad6eba7.php:1
+#: ../var/views/messages/249c41dd63c8452ab7917421f191d33c.php:15
+msgid "Create news category"
+msgstr "Створити категорію новин"
+
+#: ../var/views/messages/14f11d762710784872daf1e60ad6eba7.php:10
+#: ../var/views/messages/238e452f2eda433a7e561477cbd519ac.php:17
+msgid "News Categories"
+msgstr "Категорії новин"
+
+#: ../var/views/messages/14f11d762710784872daf1e60ad6eba7.php:11
+#: ../var/views/messages/2c45748e7fa723aed5b2bc804577254e.php:11
+msgid "Create category"
+msgstr "Створити категорію"
+
+#: ../var/views/messages/14f11d762710784872daf1e60ad6eba7.php:33
+msgid "Create News Category"
+msgstr "Створити категорію новин"
+
+#: ../var/views/messages/153c4b6b48a6267e95477c2ddc866eff.php:6
+msgid "Search lecturers"
+msgstr "Пошук викладачів"
+
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:1
+msgid "Publication add"
+msgstr "Додати публікацію"
+
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:17
+msgid "Add publication"
+msgstr "Додати публікацію"
+
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:72
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:75
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:72
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:77
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:74
+msgid "Create and close"
+msgstr "Створити та закрити"
+
+#: ../var/views/messages/15909276b181a687eaa40aac7291ccd9.php:73
+#: ../var/views/messages/b53a0d9802fc98663c37140569f39648.php:17
+msgid "Create publication"
+msgstr "Створити публікацію"
+
+#: ../var/views/messages/16c76a3b059a6000f7803896fcd41aad.php:1
+msgid "Edit tags group"
+msgstr "Редагування групи тегів"
+
+#: ../var/views/messages/16c76a3b059a6000f7803896fcd41aad.php:10
+#: ../var/views/messages/52eb466ad6d53f18f4f623941228cbf4.php:10
+#: ../var/views/messages/a176631344b91ab61b74602ded1469aa.php:10
+msgid "Tags Groups"
+msgstr "Групи тегів"
+
+#: ../var/views/messages/16c76a3b059a6000f7803896fcd41aad.php:11
+msgid "Edit category"
+msgstr "Редагування категорії"
+
+#: ../var/views/messages/16c76a3b059a6000f7803896fcd41aad.php:29
+#: ../var/views/messages/1cdfd66ee2c983a9083ad019eec5782c.php:43
+#: ../var/views/messages/209c535d9f5398bf9bc0546832e8e72c.php:33
+#: ../var/views/messages/238e452f2eda433a7e561477cbd519ac.php:40
+#: ../var/views/messages/37be65b7e86a3e5d5f933a98b4448372.php:39
+#: ../var/views/messages/6e99c74c269f5a3b0d70e970c3219504.php:48
+#: ../var/views/messages/8750c2a61fce43013b2f502ec1595dfa.php:35
+#: ../var/views/messages/a395c52a7f4fb3fdde638fa54f83f1a3.php:29
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:49
+#: ../var/views/messages/b53f321332409371db511920093bad3b.php:33
+#: ../var/views/messages/cac85ac5aa91665d0aeccf9dc4ef5e7b.php:45
+#: ../var/views/messages/cc203baeed70bada17f3f7a4b041251c.php:40
+#: ../var/views/messages/cc712d078d0d679afc9c7791b8f330fd.php:46
+#: ../var/views/messages/d8042ea700347f92987129a725503da4.php:33
+msgid "Save changes"
+msgstr "Зберегти зміни"
+
+#: ../var/views/messages/16d4a17cd3133487c841dbc7547e377c.php:3
+#: ../var/views/messages/4c872e2414115e4ba221cd66371eabd5.php:4
+#: ../var/views/messages/c502efdccb79c8c8446cce54a9299940.php:9
+#: ../var/views/messages/ec37021b2de6cf559f24111ba2fe3ac8.php:20
+msgid "Name"
+msgstr "Ім’я"
+
+#: ../var/views/messages/16d4a17cd3133487c841dbc7547e377c.php:12
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:4
+#: ../var/views/messages/2527e7453bb377c01faacfe087a4a539.php:2
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:2
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:4
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:4
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:4
+#: ../var/views/messages/5948ea36c85e41fc15741056ee82cbdc.php:2
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:4
+#: ../var/views/messages/6badde59b0cb70c9a580a392690fa9cc.php:5
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:4
+#: ../var/views/messages/7e05be9f07ff5fe68ced6551c361a83d.php:2
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:4
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:4
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:4
+#: ../var/views/messages/bb205b875a0bce6085b62c33183bf4c3.php:4
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:4
+#: ../var/views/messages/c502efdccb79c8c8446cce54a9299940.php:2
+#: ../var/views/messages/c82b0075b4efd689f1edce0dd1ba9ee8.php:4
+#: ../var/views/messages/cbe44547ef870600680d0e32c84198d7.php:2
+#: ../var/views/messages/dbfdbe0035120c9aa57b26731a2fd76d.php:2
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:4
+#: ../var/views/messages/e582b8a2313ec0ece12f34d0119fc065.php:5
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:4
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:4
+#: ../var/views/messages/f2f678b25e99e2a9da04e44219245755.php:4
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:4
+msgid "Title"
+msgstr "Заголовок (назва)"
+
+#: ../var/views/messages/16d4a17cd3133487c841dbc7547e377c.php:21
+msgid "Type"
+msgstr "Тип"
+
+#: ../var/views/messages/16d4a17cd3133487c841dbc7547e377c.php:30
+msgid "Value"
+msgstr "Значення"
+
+#: ../var/views/messages/16d4a17cd3133487c841dbc7547e377c.php:39
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:42
+msgid "Lang"
+msgstr "Мова"
+
+#: ../var/views/messages/18250406a2ffe949754091cbb22e59ed.php:1
+#: ../var/views/messages/18250406a2ffe949754091cbb22e59ed.php:11
+msgid "List of tags"
+msgstr "Перелік тегів"
+
+#: ../var/views/messages/18250406a2ffe949754091cbb22e59ed.php:15
+#: ../var/views/messages/9881b527c5b9def91eee2b198f2fb18b.php:1
+#: ../var/views/messages/9881b527c5b9def91eee2b198f2fb18b.php:11
+msgid "Create tag"
+msgstr "Створити тег"
+
+#: ../var/views/messages/18250406a2ffe949754091cbb22e59ed.php:24
+#: ../var/views/messages/1d41032a4625b43ce77bad5290b46e46.php:33
+#: ../var/views/messages/23f65fa56165bf29b9ade719bd4ac63e.php:34
+#: ../var/views/messages/3145fcad4517574a1b64a9c84362b603.php:29
+#: ../var/views/messages/36da847c5f74aea1d55f631b148215c5.php:29
+#: ../var/views/messages/b53a0d9802fc98663c37140569f39648.php:33
+#: ../var/views/messages/d4052377878e5fb244bc6c4477e2dfdc.php:33
+msgid "Search"
+msgstr "Пошук"
+
+#: ../var/views/messages/1a2c4fd3f161e01f77c1da328e9d97bb.php:2
+#: ../var/views/messages/5001ac8425849bbbc8b6ac2558b174cc.php:2
+msgid "Categories"
+msgstr "Категорії"
+
+#: ../var/views/messages/1a2c4fd3f161e01f77c1da328e9d97bb.php:5
+#: ../var/views/messages/5001ac8425849bbbc8b6ac2558b174cc.php:5
+msgid "Select categories"
+msgstr "Обрати категорію"
+
+#: ../var/views/messages/1ccb8e7c5352e41ac3aab6f48e60391d.php:16
+msgid "Upload file"
+msgstr "Завантажити файл"
+
+#: ../var/views/messages/1ccb8e7c5352e41ac3aab6f48e60391d.php:36
+msgid "Crop image"
+msgstr "Обрізати зображення"
+
+#: ../var/views/messages/1ccb8e7c5352e41ac3aab6f48e60391d.php:44
+msgid "Clear"
+msgstr "Очистити"
+
+#: ../var/views/messages/1ccb8e7c5352e41ac3aab6f48e60391d.php:75
+msgid "Small image"
+msgstr "Мале зображення"
+
+#: ../var/views/messages/1ccb8e7c5352e41ac3aab6f48e60391d.php:75
+msgid "required image size"
+msgstr "потрібний розмір зображення"
+
+#: ../var/views/messages/1cdfd66ee2c983a9083ad019eec5782c.php:1
+#: ../var/views/messages/1cdfd66ee2c983a9083ad019eec5782c.php:11
+msgid "Edit setting"
+msgstr "Редагування налаштування"
+
+#: ../var/views/messages/1cdfd66ee2c983a9083ad019eec5782c.php:15
+#: ../var/views/messages/209c535d9f5398bf9bc0546832e8e72c.php:15
+#: ../var/views/messages/8750c2a61fce43013b2f502ec1595dfa.php:15
+#: ../var/views/messages/d8042ea700347f92987129a725503da4.php:15
+msgid "Return back"
+msgstr "Назад"
+
+#: ../var/views/messages/1d41032a4625b43ce77bad5290b46e46.php:1
+msgid "News list"
+msgstr "Перелік новин"
+
+#: ../var/views/messages/1d41032a4625b43ce77bad5290b46e46.php:11
+msgid "View news list"
+msgstr "Перегляд переліку новин"
+
+#: ../var/views/messages/1d41032a4625b43ce77bad5290b46e46.php:17
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:73
+msgid "Create news"
+msgstr "Створити новину"
+
+#: ../var/views/messages/1e1253b56983f0b37a4c0f91e8f007c4.php:1
+msgid "Languages list"
+msgstr "Перелік мов"
+
+#: ../var/views/messages/1e1253b56983f0b37a4c0f91e8f007c4.php:11
+msgid "View languages list"
+msgstr "Перегляд переліку мов"
+
+#: ../var/views/messages/1e1253b56983f0b37a4c0f91e8f007c4.php:15
+msgid "Create language"
+msgstr "Створити мову"
+
+#: ../var/views/messages/1e1253b56983f0b37a4c0f91e8f007c4.php:28
+msgid "Is active"
+msgstr "Активовано"
+
+#: ../var/views/messages/1ef66f372300c3825856366439c2616d.php:55
+#: ../vendor/starlight/package-users-teams-permissions/src/Starlight/PackageUsersTeamsPermissions/Controllers/PackageUsersTeamsPermissionsController.php:55
+msgid "Permissions saved successfully"
+msgstr "Права доступу успішно збережено"
+
+#: ../var/views/messages/209c535d9f5398bf9bc0546832e8e72c.php:1
+#: ../var/views/messages/209c535d9f5398bf9bc0546832e8e72c.php:11
+msgid "Edit language"
+msgstr "Редагування мови"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:8
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:8
+msgid "Foundation Time"
+msgstr "Час заснування"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:12
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:8
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:12
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:12
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:12
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:12
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:12
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:12
+msgid "Create Time"
+msgstr "Час створення"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:16
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:12
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:16
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:16
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:16
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:16
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:16
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:16
+msgid "Update Time"
+msgstr "Час оновлення"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:20
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:16
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:28
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:9
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:28
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:9
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:28
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:20
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:28
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:28
+msgid "Status"
+msgstr "Статус"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:43
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:38
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:55
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:28
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:55
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:28
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:55
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:43
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:55
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:55
+msgid "Active"
+msgstr "Активовано"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:45
+#: ../var/views/messages/249c41dd63c8452ab7917421f191d33c.php:33
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:40
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:57
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:30
+#: ../var/views/messages/68ca1912b7cf5cb476d5aa710b333e45.php:26
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:57
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:30
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:57
+#: ../var/views/messages/b21aab5ab1856b615817d88762a2aa01.php:31
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:45
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:57
+#: ../var/views/messages/f1c70cc28542227fb4d66554bc177440.php:27
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:57
+#: ../var/views/messages/f526988d2be7516195761135522d3b94.php:32
+msgid "Disabled"
+msgstr "Відключено"
+
+#: ../var/views/messages/2196d6afae415146a72f0acc2831e879.php:68
+#: ../var/views/messages/e1f18c44d81b5fb9941be39f697add5d.php:68
+msgid "There is no available laboratories by this request"
+msgstr "Немає доступних лабораторій за цим запитом"
+
+#: ../var/views/messages/238e452f2eda433a7e561477cbd519ac.php:1
+msgid "Edit news category"
+msgstr "Редагування категорії новин"
+
+#: ../var/views/messages/238e452f2eda433a7e561477cbd519ac.php:12
+msgid "Delete news category"
+msgstr "Видалити категорію новин"
+
+#: ../var/views/messages/238e452f2eda433a7e561477cbd519ac.php:18
+#: ../var/views/messages/cc203baeed70bada17f3f7a4b041251c.php:18
+msgid "Edit categories"
+msgstr "Редагування категорії"
+
+#: ../var/views/messages/23f65fa56165bf29b9ade719bd4ac63e.php:1
+msgid "Users list"
+msgstr "Перелік користувачів"
+
+#: ../var/views/messages/23f65fa56165bf29b9ade719bd4ac63e.php:11
+msgid "View users list"
+msgstr "Перегляд переліку користувачів"
+
+#: ../var/views/messages/23f65fa56165bf29b9ade719bd4ac63e.php:15
+msgid "Create users"
+msgstr "Створити користувача"
+
+#: ../var/views/messages/249c41dd63c8452ab7917421f191d33c.php:1
+#: ../var/views/messages/249c41dd63c8452ab7917421f191d33c.php:11
+msgid "List of news categories"
+msgstr "Перелік категорій новин"
+
+#: ../var/views/messages/249c41dd63c8452ab7917421f191d33c.php:10
+msgid "New Categories"
+msgstr "Категории новостей"
+
+#: ../var/views/messages/249c41dd63c8452ab7917421f191d33c.php:37
+#: ../var/views/messages/f526988d2be7516195761135522d3b94.php:36
+msgid "Top"
+msgstr "Головна"
+
+#: ../var/views/messages/2527e7453bb377c01faacfe087a4a539.php:16
+msgid "Deescription"
+msgstr "Опис"
+
+#: ../var/views/messages/25aee6012f71f71fb09896ed6148295f.php:21
+#: ../var/views/messages/fe220a8db0df95046c1dea2de0fa8c9d.php:32
+msgid "Delete"
+msgstr "Видалити"
+
+#: ../var/views/messages/25aee6012f71f71fb09896ed6148295f.php:34
+msgid "Drop your files here"
+msgstr "Перетягніть ваші фотографії сюди"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:9
+#: ../var/views/messages/5948ea36c85e41fc15741056ee82cbdc.php:9
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:11
+#: ../var/views/messages/6badde59b0cb70c9a580a392690fa9cc.php:13
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:11
+#: ../var/views/messages/bb205b875a0bce6085b62c33183bf4c3.php:11
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:11
+#: ../var/views/messages/dbfdbe0035120c9aa57b26731a2fd76d.php:9
+#: ../var/views/messages/e582b8a2313ec0ece12f34d0119fc065.php:13
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:12
+#: ../var/views/messages/f2f678b25e99e2a9da04e44219245755.php:12
+msgid "Slug"
+msgstr "Адреса сторінки (URL)"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:13
+#: ../var/views/messages/5948ea36c85e41fc15741056ee82cbdc.php:13
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:15
+#: ../var/views/messages/6badde59b0cb70c9a580a392690fa9cc.php:17
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:15
+#: ../var/views/messages/bb205b875a0bce6085b62c33183bf4c3.php:15
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:15
+#: ../var/views/messages/dbfdbe0035120c9aa57b26731a2fd76d.php:13
+#: ../var/views/messages/e582b8a2313ec0ece12f34d0119fc065.php:17
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:16
+#: ../var/views/messages/f2f678b25e99e2a9da04e44219245755.php:16
+msgid "Enter slug"
+msgstr "Введіть адресу сторінки (URL)"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:22
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:24
+#: ../var/views/messages/6badde59b0cb70c9a580a392690fa9cc.php:26
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:24
+#: ../var/views/messages/bb205b875a0bce6085b62c33183bf4c3.php:24
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:24
+#: ../var/views/messages/dbfdbe0035120c9aa57b26731a2fd76d.php:22
+#: ../var/views/messages/e582b8a2313ec0ece12f34d0119fc065.php:26
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:25
+#: ../var/views/messages/f2f678b25e99e2a9da04e44219245755.php:25
+msgid "manual"
+msgstr "вручну"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:33
+msgid "Position"
+msgstr "Положення"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:40
+#: ../var/views/messages/5948ea36c85e41fc15741056ee82cbdc.php:32
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:43
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:43
+#: ../var/views/messages/bb205b875a0bce6085b62c33183bf4c3.php:35
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:36
+#: ../var/views/messages/dbfdbe0035120c9aa57b26731a2fd76d.php:33
+msgid "Body"
+msgstr "Основний текст"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:54
+msgid "Birth data"
+msgstr "Дата народження"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:71
+#: ../var/views/messages/eb49bc5bd1a780151647b09df716b282.php:5
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:78
+msgid "Telephone"
+msgstr "Телефон"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:90
+msgid "is dean"
+msgstr "Декан"
+
+#: ../var/views/messages/25bf0caa24981b3292be51a7a12d6602.php:99
+#: ../var/views/messages/5948ea36c85e41fc15741056ee82cbdc.php:44
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:85
+#: ../var/views/messages/6badde59b0cb70c9a580a392690fa9cc.php:40
+#: ../var/views/messages/7e05be9f07ff5fe68ced6551c361a83d.php:33
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:86
+#: ../var/views/messages/bb205b875a0bce6085b62c33183bf4c3.php:47
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:82
+#: ../var/views/messages/c82b0075b4efd689f1edce0dd1ba9ee8.php:32
+#: ../var/views/messages/cbe44547ef870600680d0e32c84198d7.php:13
+#: ../var/views/messages/dbfdbe0035120c9aa57b26731a2fd76d.php:54
+#: ../var/views/messages/e582b8a2313ec0ece12f34d0119fc065.php:40
+msgid "is active"
+msgstr "активовано"
+
+#: ../var/views/messages/28ee1ef6a07fb0065274429f99c37eb5.php:1
+#: ../var/views/messages/38fe6d65ca8c2dcc696c7fc45eb00e66.php:1
+#: ../var/views/messages/e48e7b19157d1bb4a4b821e445f9defd.php:1
+msgid "Gallery add"
+msgstr "Додати гелерею"
+
+#: ../var/views/messages/28ee1ef6a07fb0065274429f99c37eb5.php:16
+#: ../var/views/messages/e48e7b19157d1bb4a4b821e445f9defd.php:16
+msgid "Gallery Items"
+msgstr "Елементи галереї"
+
+#: ../var/views/messages/28ee1ef6a07fb0065274429f99c37eb5.php:17
+msgid "Edit item for"
+msgstr "Редагувати елемент для"
+
+#: ../var/views/messages/28ee1ef6a07fb0065274429f99c37eb5.php:17
+#: ../var/views/messages/e48e7b19157d1bb4a4b821e445f9defd.php:17
+msgid "gallery"
+msgstr "галерея"
+
+#: ../var/views/messages/28ee1ef6a07fb0065274429f99c37eb5.php:40
+msgid "Save gallery item"
+msgstr "Зберегти елемент галереї"
+
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:1
+msgid "Lecturer add"
+msgstr "Додати викладача"
+
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:17
+msgid "Add lecturer"
+msgstr "Додати викладача"
+
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:39
+msgid "New lecturer"
+msgstr "Новий викладач"
+
+#: ../var/views/messages/2ba2ba39f101456113efcc2535d55ec4.php:76
+msgid "Create new lecturer"
+msgstr "Створити нового викладача"
+
+#: ../var/views/messages/2c45748e7fa723aed5b2bc804577254e.php:1
+#: ../var/views/messages/f526988d2be7516195761135522d3b94.php:15
+msgid "Create publications category"
+msgstr "Створити категорію публікацій"
+
+#: ../var/views/messages/2c45748e7fa723aed5b2bc804577254e.php:10
+#: ../var/views/messages/cc203baeed70bada17f3f7a4b041251c.php:17
+#: ../var/views/messages/f526988d2be7516195761135522d3b94.php:10
+msgid "Publications Categories"
+msgstr "Категорії публікацій"
+
+#: ../var/views/messages/2c45748e7fa723aed5b2bc804577254e.php:33
+msgid "Create Publications Category"
+msgstr "Створити категорію публікацій"
+
+#: ../var/views/messages/30dad32da79672af18c3a4cd56baadfd.php:3
+msgid "Lecturers:"
+msgstr "Викладачі:"
+
+#: ../var/views/messages/30dad32da79672af18c3a4cd56baadfd.php:6
+#: ../var/views/messages/8d2e545e0096342cc45f55e055e6f13a.php:6
+#: ../var/views/messages/aa88baa7fcc1791d31bd6b5badeaedbf.php:6
+#: ../var/views/messages/eafe4c5dad68b18b0db4ba418178722d.php:5
+msgid "Nothing to show"
+msgstr "Нічого не вибрано"
+
+#: ../var/views/messages/3145fcad4517574a1b64a9c84362b603.php:1
+msgid "Chairs list"
+msgstr "Перелік кафедр"
+
+#: ../var/views/messages/3145fcad4517574a1b64a9c84362b603.php:11
+msgid "View chairs list"
+msgstr "Перегляд переліку кафедр"
+
+#: ../var/views/messages/3145fcad4517574a1b64a9c84362b603.php:15
+msgid "Create chair"
+msgstr "Створити кафедру"
+
+#: ../var/views/messages/3190aac314f11052a53009dd142d6ab3.php:3
+msgid "There is no available chairs"
+msgstr "Немає доступних кафедр"
+
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:1
+msgid "Lecturer edit"
+msgstr "Редагування викладача"
+
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:17
+msgid "Delete lecturer"
+msgstr "Видалити викладача"
+
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:23
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:42
+msgid "Edit lecturer"
+msgstr "Редагування викладача"
+
+#: ../var/views/messages/36d9cf15104ac9c27a325a68b41704f3.php:79
+msgid "Save lecturer"
+msgstr "Створити викладача"
+
+#: ../var/views/messages/36da847c5f74aea1d55f631b148215c5.php:1
+msgid "Lecturers list"
+msgstr "Перелік викладачів"
+
+#: ../var/views/messages/36da847c5f74aea1d55f631b148215c5.php:11
+msgid "View lecturers list"
+msgstr "Перегляд переліку викладачів"
+
+#: ../var/views/messages/36da847c5f74aea1d55f631b148215c5.php:15
+msgid "Create lecturer"
+msgstr "Створити викладача"
+
+#: ../var/views/messages/37be65b7e86a3e5d5f933a98b4448372.php:1
+#: ../var/views/messages/37be65b7e86a3e5d5f933a98b4448372.php:12
+msgid "Edit users team"
+msgstr "Редагування групи користувачів"
+
+#: ../var/views/messages/37be65b7e86a3e5d5f933a98b4448372.php:18
+msgid "Delete team"
+msgstr "Видалити групу"
+
+#: ../var/views/messages/3808900bda7bb339c7223b97e4bb1f0c.php:1
+#: ../var/views/messages/3808900bda7bb339c7223b97e4bb1f0c.php:11
+msgid "List of statuses"
+msgstr "Перелік статусів"
+
+#: ../var/views/messages/3808900bda7bb339c7223b97e4bb1f0c.php:15
+#: ../var/views/messages/4fe2c6625a461676a1be1efd84b037b1.php:1
+#: ../var/views/messages/4fe2c6625a461676a1be1efd84b037b1.php:11
+msgid "Create status"
+msgstr "Створити статус"
+
+#: ../var/views/messages/38fe6d65ca8c2dcc696c7fc45eb00e66.php:16
+#: ../var/views/messages/3ef860cad35b6618910718ceead1351c.php:10
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:26
+msgid "Galleries"
+msgstr "Галереї"
+
+#: ../var/views/messages/38fe6d65ca8c2dcc696c7fc45eb00e66.php:17
+msgid "Add gallery"
+msgstr "Додати галерею"
+
+#: ../var/views/messages/38fe6d65ca8c2dcc696c7fc45eb00e66.php:40
+msgid "Create new gallery"
+msgstr "Створити нову галерею"
+
+#: ../var/views/messages/39c6b9c6caaf86c8793a0d85d230e7aa.php:63
+#: ../var/views/messages/4849143cfd4ad8dcb5ccb19c8909fac0.php:53
+msgid "There is no available lecturers by this request"
+msgstr "Немає доступних викладачів за цим запитом"
+
+#: ../var/views/messages/39ced5b23cc4345a7fc4d1c6eea9a6b4.php:2
+#: ../var/views/messages/4507a2503a235bb151521abfe8293bea.php:29
+#: ../vendor/starlight/package-users-teams/src/Starlight/PackageUsersTeams/PackageUsersTeamsServiceProvider.php:29
+msgid "Teams"
+msgstr "Групи"
+
+#: ../var/views/messages/39ced5b23cc4345a7fc4d1c6eea9a6b4.php:5
+msgid "Select teams"
+msgstr "Обрати групу"
+
+#: ../var/views/messages/3d43a77ebc29ad44311de5d2d4e88e8d.php:2
+#: ../var/views/messages/63ca42946630dd97d18ecf8eb6666add.php:12
+msgid "Upload files"
+msgstr "Завантажити файли"
+
+#: ../var/views/messages/3ef860cad35b6618910718ceead1351c.php:1
+msgid "Galleries list"
+msgstr "Перелік галерей"
+
+#: ../var/views/messages/3ef860cad35b6618910718ceead1351c.php:11
+msgid "View galleries list"
+msgstr "Перегляд переліку галерей"
+
+#: ../var/views/messages/3ef860cad35b6618910718ceead1351c.php:15
+msgid "Create gallery"
+msgstr "Створити галерею"
+
+#: ../var/views/messages/42ba44f6c825a2166c54101cbf9beaa8.php:1
+#: ../var/views/messages/c1aa8aa1b5c778b999a177b9aa82410c.php:1
+msgid "Users Teams list"
+msgstr "Перелік груп користувачів"
+
+#: ../var/views/messages/42ba44f6c825a2166c54101cbf9beaa8.php:10
+msgid "Permissions Users Teams list"
+msgstr "Перелік груп користувачів з правами доступу"
+
+#: ../var/views/messages/42ba44f6c825a2166c54101cbf9beaa8.php:11
+msgid "View users teams list for permissions"
+msgstr "Перегляд груп користувачів для надання прав доступу"
+
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:1
+msgid "Publication edit"
+msgstr "Редагування публікації"
+
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:20
+msgid "Delete publication"
+msgstr "Видалити публікацію"
+
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:26
+msgid "Edit publication"
+msgstr "Редагування публікації"
+
+#: ../var/views/messages/4648064ce01558d1d9e075434dabc250.php:79
+msgid "Save publication"
+msgstr "Зберегти публікацію"
+
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:8
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:8
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:8
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:8
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:8
+msgid "Publish Time"
+msgstr "Час публікації"
+
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:20
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:20
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:20
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:20
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:20
+msgid "Creator"
+msgstr "Автор"
+
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:24
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:24
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:24
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:24
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:24
+msgid "Editor"
+msgstr "Редактор"
+
+#: ../var/views/messages/479aba6992d64d08c9b23e6726eba90c.php:80
+#: ../var/views/messages/a3fd0ff80bb1559cd1423c8ab39f3cea.php:80
+msgid "There is no available publications by this request"
+msgstr "Немає доступних публікацій за цим запитом"
+
+#: ../var/views/messages/4f7ef2d54a6ebe6057ff8140807c182b.php:5
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:37
+msgid "Select tags"
+msgstr "Обрати теги"
+
+#: ../var/views/messages/4fe2c6625a461676a1be1efd84b037b1.php:29
+msgid "Create Status"
+msgstr "Створити статус"
+
+#: ../var/views/messages/52eb466ad6d53f18f4f623941228cbf4.php:1
+#: ../var/views/messages/52eb466ad6d53f18f4f623941228cbf4.php:11
+msgid "List of tags groups"
+msgstr "Перелік груп тегів"
+
+#: ../var/views/messages/52eb466ad6d53f18f4f623941228cbf4.php:15
+#: ../var/views/messages/a176631344b91ab61b74602ded1469aa.php:1
+msgid "Create tags group"
+msgstr "Створити групу тегів"
+
+#: ../var/views/messages/52eb466ad6d53f18f4f623941228cbf4.php:29
+msgid "Is top"
+msgstr "Головна"
+
+#: ../var/views/messages/565f03c59402e66870be9078c7be66c8.php:3
+msgid "There is no available news"
+msgstr "Немає доступних новин"
+
+#: ../var/views/messages/56fad5c64f4caee801d1c7454a13f4b3.php:40
+#: ../vendor/starlight/package-fragments/src/Starlight/PackageFragments/Controllers/PackageFragmentsController.php:40
+msgid "Fragment created successfully"
+msgstr "Фрагмент успішно створено"
+
+#: ../var/views/messages/56fad5c64f4caee801d1c7454a13f4b3.php:67
+#: ../vendor/starlight/package-fragments/src/Starlight/PackageFragments/Controllers/PackageFragmentsController.php:67
+msgid "Fragment saved successfully"
+msgstr "Фрагмент успішно збережено"
+
+#: ../var/views/messages/56fad5c64f4caee801d1c7454a13f4b3.php:79
+#: ../vendor/starlight/package-fragments/src/Starlight/PackageFragments/Controllers/PackageFragmentsController.php:79
+msgid "Fragment deleted successfully"
+msgstr "Фрагмент успішно видалено"
+
+#: ../var/views/messages/5d2b4a518b87a99ef273dc989bd9ad94.php:3
+msgid "There is no available lecturers"
+msgstr "Немає доступних викладачів"
+
+#: ../var/views/messages/5e632cc4730c00459cbba81c22d19d48.php:8
+msgid "Search publications"
+msgstr "Пошук публікацій"
+
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:35
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:35
+msgid "Subtitle"
+msgstr "Підзаголовок"
+
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:67
+#: ../var/views/messages/7e05be9f07ff5fe68ced6551c361a83d.php:16
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:68
+msgid "Publication time"
+msgstr "Час публікації"
+
+#: ../var/views/messages/5f99c91e8e99cd63efb3243e298c08a2.php:94
+#: ../var/views/messages/6badde59b0cb70c9a580a392690fa9cc.php:49
+#: ../var/views/messages/85a91e821751ad48a0905609647cbb5e.php:95
+#: ../var/views/messages/e582b8a2313ec0ece12f34d0119fc065.php:49
+#: ../var/views/messages/e975fde50db2d5aaa96314ab7077a125.php:60
+msgid "is top"
+msgstr "Головна"
+
+#: ../var/views/messages/63ca42946630dd97d18ecf8eb6666add.php:29
+msgid "Create directory"
+msgstr "Створити каталог"
+
+#: ../var/views/messages/63ca42946630dd97d18ecf8eb6666add.php:42
+msgid "empty"
+msgstr "порожньо"
+
+#: ../var/views/messages/68ca1912b7cf5cb476d5aa710b333e45.php:1
+msgid "Document list"
+msgstr "Перелік документів"
+
+#: ../var/views/messages/68ca1912b7cf5cb476d5aa710b333e45.php:10
+msgid "View documents list"
+msgstr "Перегляд переліку документів"
+
+#: ../var/views/messages/68ca1912b7cf5cb476d5aa710b333e45.php:14
+msgid "Create document"
+msgstr "Створити документ"
+
+#: ../var/views/messages/6e99c74c269f5a3b0d70e970c3219504.php:1
+#: ../var/views/messages/6e99c74c269f5a3b0d70e970c3219504.php:16
+msgid "Edit page"
+msgstr "Редагування сорінки"
+
+#: ../var/views/messages/6e99c74c269f5a3b0d70e970c3219504.php:21
+msgid "Delete page"
+msgstr "Видалити сторінку"
+
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:1
+msgid "News add"
+msgstr "Додати новину"
+
+#: ../var/views/messages/7325bda52990e2e0e3c3a2407cd05531.php:17
+msgid "Add news"
+msgstr "Додати новину"
+
+#: ../var/views/messages/779386fb004ba99b887f8cb0a7eb7d45.php:5
+#: ../var/views/messages/779386fb004ba99b887f8cb0a7eb7d45.php:28
+msgid "Additional"
+msgstr "Додатково"
+
+#: ../var/views/messages/779386fb004ba99b887f8cb0a7eb7d45.php:6
+#: ../var/views/messages/779386fb004ba99b887f8cb0a7eb7d45.php:29
+msgid "Additional settings"
+msgstr "Додаткові налаштування"
+
+#: ../var/views/messages/779386fb004ba99b887f8cb0a7eb7d45.php:25
+msgid "Hide additional"
+msgstr "Приховати додаткове"
+
+#: ../var/views/messages/79dac70b8d2eb9abb6c7fcd02525c645.php:80
+#: ../var/views/messages/a18bc1859909ea90b077ddf67d8cb8cf.php:53
+msgid "There is no available chairs by this request"
+msgstr "Немає доступних кафедр за цим запитом"
+
+#: ../var/views/messages/807253d71079d5682e9536f15b2b859a.php:1
+#: ../var/views/messages/807253d71079d5682e9536f15b2b859a.php:14
+msgid "Add document"
+msgstr "Додати документ"
+
+#: ../var/views/messages/807253d71079d5682e9536f15b2b859a.php:32
+msgid "Create Document"
+msgstr "Створити документ"
+
+#: ../var/views/messages/8750c2a61fce43013b2f502ec1595dfa.php:1
+#: ../var/views/messages/8750c2a61fce43013b2f502ec1595dfa.php:11
+msgid "Add language"
+msgstr "Додати мову"
+
+#: ../var/views/messages/897090dca0ca84f63faa50de5761e18b.php:3
+msgid "Attachments"
+msgstr "Прикріплені файли"
+
+#: ../var/views/messages/8cf48e21a446de68090006a8fc738061.php:7
+msgid "Search news"
+msgstr "Пошук новин"
+
+#: ../var/views/messages/8d2e545e0096342cc45f55e055e6f13a.php:2
+msgid "Related publications:"
+msgstr "Пов'язані публікації:"
+
+#: ../var/views/messages/8fcadc51fd2f84e8087ee1aa54174fae.php:83
+#: ../vendor/starlight/package-storage/src/Starlight/PackageStorage/Controllers/PackageStorageController.php:83
+msgid "Folder created sucessfully"
+msgstr "Папку успішно створено"
+
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:1
+msgid "Chair edit"
+msgstr "Редагування кафедри"
+
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:17
+msgid "Delete chair"
+msgstr "Видалити кафедру"
+
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:23
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:42
+msgid "Edit chair"
+msgstr "Редагування кафедри"
+
+#: ../var/views/messages/90c899d64126b533905377460dcd6001.php:81
+msgid "Save chair"
+msgstr "Зберегти кафедру"
+
+#: ../var/views/messages/93eb128397f60b52ee1f82af6e471d62.php:1
+msgid "Storage"
+msgstr "Сховище"
+
+#: ../var/views/messages/95497477519d77e1ec7f0da7aee1a27f.php:1
+#: ../var/views/messages/95497477519d77e1ec7f0da7aee1a27f.php:11
+msgid "Edit users team permissions"
+msgstr "Редагування права доступу групи користувачів"
+
+#: ../var/views/messages/95497477519d77e1ec7f0da7aee1a27f.php:12
+msgid "Edit permissions of"
+msgstr "Редагувати права доступу"
+
+#: ../var/views/messages/95497477519d77e1ec7f0da7aee1a27f.php:64
+msgid "Save permissions"
+msgstr "Зберегти права доступу"
+
+#: ../var/views/messages/97e2d172122cdda93b619d0c04aab596.php:79
+#: ../vendor/starlight/package-users-teams/src/Starlight/PackageUsersTeams/Controllers/PackageUsersTeamsController.php:79
+msgid "Team deleted successfully"
+msgstr "Групу успішно видалено"
+
+#: ../var/views/messages/9881b527c5b9def91eee2b198f2fb18b.php:29
+msgid "Create Tag"
+msgstr "Створити тег"
+
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:1
+msgid "Chair add"
+msgstr "Додати кафедру"
+
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:17
+msgid "Add chair"
+msgstr "Додати кафедру"
+
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:39
+msgid "New chair"
+msgstr "Нова кафедра"
+
+#: ../var/views/messages/9aae6418f7193cef220b27a7855d39f7.php:78
+msgid "Create new chair"
+msgstr "Створити нову кафедру"
+
+#: ../var/views/messages/9c8f0795fa55ded6ac501050e8dba062.php:2
+msgid "Main lecturer"
+msgstr "Основний викладач"
+
+#: ../var/views/messages/9c8f0795fa55ded6ac501050e8dba062.php:5
+msgid "Select lecturer"
+msgstr "Вибрати викладача"
+
+#: ../var/views/messages/9eade0210b954f8c7a7d9ef1ee749ec3.php:2
+msgid "Chair"
+msgstr "Кафедра"
+
+#: ../var/views/messages/9eade0210b954f8c7a7d9ef1ee749ec3.php:5
+msgid "Select chair"
+msgstr "Вибрати кафедру"
+
+#: ../var/views/messages/a176631344b91ab61b74602ded1469aa.php:11
+msgid "Create group"
+msgstr "Створити групу"
+
+#: ../var/views/messages/a176631344b91ab61b74602ded1469aa.php:29
+msgid "Create Tags Group"
+msgstr "Створити групу тегів"
+
+#: ../var/views/messages/a395c52a7f4fb3fdde638fa54f83f1a3.php:1
+#: ../var/views/messages/a395c52a7f4fb3fdde638fa54f83f1a3.php:11
+msgid "Edit status"
+msgstr "Редагувати статус"
+
+#: ../var/views/messages/a42873e2987a0670ec4e582d32dc48dd.php:5
+msgid "Select statuses"
+msgstr "Обрати статус"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:1
+msgid "Edit User"
+msgstr "Редагування користувача"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:11
+msgid "User"
+msgstr "Користувач"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:12
+msgid "Edit user"
+msgstr "Редагування користувача"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:18
+msgid "Delete user"
+msgstr "Видалити користувача"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:40
+msgid "Are you sure to reset password for this user?"
+msgstr "Ви дійсно бажаєте відновити пароль для цього користувача?"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:40
+msgid "Reset password"
+msgstr "Відновлення паролю"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:43
+msgid "Are you sure to invite this user as administrator?"
+msgstr ""
+"Ви дійсно бажаєте запросити цього користувача у якості адміністратора?"
+
+#: ../var/views/messages/a885736bf094142da5b7285bd8ea8e03.php:43
+msgid "Invite as administrator"
+msgstr "Запросити у якості адміністратора"
+
+#: ../var/views/messages/a976796cd48b2ddd1f960a7b50f2c438.php:1
+msgid "User's materials"
+msgstr "Матеріали користувача"
+
+#: ../var/views/messages/a976796cd48b2ddd1f960a7b50f2c438.php:11
+msgid "Materials of"
+msgstr "Матеріали"
+
+#: ../var/views/messages/aa88baa7fcc1791d31bd6b5badeaedbf.php:3
+msgid "Chairs:"
+msgstr "Кафедри:"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:1
+msgid "Gallery edit"
+msgstr "Редагування галереї"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:17
+msgid "Delete gallery"
+msgstr "Видалити галерею"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:23
+msgid "Create new item"
+msgstr "Створити новий елемент"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:27
+msgid "Edit gallery"
+msgstr "Редагування галереї"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:37
+msgid "Items"
+msgstr "Елементи"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:38
+#: ../var/views/messages/ec8905decedbbe681c5ce98cf99231fc.php:3
+msgid "Gallery"
+msgstr "Галерея"
+
+#: ../var/views/messages/ae6147b748172409eaa15be61172d971.php:83
+msgid "Save gallery"
+msgstr "Зберегти галерею"
+
+#: ../var/views/messages/b21aab5ab1856b615817d88762a2aa01.php:1
+msgid "Pages list"
+msgstr "Перелік сторінок"
+
+#: ../var/views/messages/b21aab5ab1856b615817d88762a2aa01.php:11
+msgid "View pages list"
+msgstr "Перегляд переліку сторінок"
+
+#: ../var/views/messages/b21aab5ab1856b615817d88762a2aa01.php:15
+msgid "Create page"
+msgstr "Створити сторінку"
+
+#: ../var/views/messages/b53a0d9802fc98663c37140569f39648.php:1
+msgid "Publications list"
+msgstr "Перелік публікацій"
+
+#: ../var/views/messages/b53a0d9802fc98663c37140569f39648.php:11
+msgid "View publications list"
+msgstr "Перегляд переліку публікацій"
+
+#: ../var/views/messages/b53f321332409371db511920093bad3b.php:1
+#: ../var/views/messages/b53f321332409371db511920093bad3b.php:17
+msgid "Edit tag"
+msgstr "Редагувати тег"
+
+#: ../var/views/messages/b53f321332409371db511920093bad3b.php:11
+msgid "Delete tag"
+msgstr "Видалити тег"
+
+#: ../var/views/messages/b6eb2bf8c11c2eac1c6766b585acc5ee.php:11
+msgid "Access denied"
+msgstr "Відмовлено у доступі"
+
+#: ../var/views/messages/b6eb2bf8c11c2eac1c6766b585acc5ee.php:20
+msgid "Login as another user"
+msgstr "Увійти в систему з іншого аккаунту"
+
+#: ../var/views/messages/c1aa8aa1b5c778b999a177b9aa82410c.php:11
+msgid "View users teams list"
+msgstr "Перегляд переліку груп крористувачів"
+
+#: ../var/views/messages/c26ab22eeab9272feb06dbe814cb31d6.php:56
+msgid "Date foundation"
+msgstr "Дата заснування"
+
+#: ../var/views/messages/c3fd65e2a31f4ad1823ea23ae217065f.php:41
+#: ../vendor/starlight/package-galleries/src/Starlight/PackageGalleries/Controllers/PackageGalleriesController.php:41
+msgid "Gallery created successfully"
+msgstr "Галерею успішно створено"
+
+#: ../var/views/messages/c3fd65e2a31f4ad1823ea23ae217065f.php:70
+#: ../vendor/starlight/package-galleries/src/Starlight/PackageGalleries/Controllers/PackageGalleriesController.php:70
+msgid "Gallery saved successfully"
+msgstr "Галерею успішно збережено"
+
+#: ../var/views/messages/c3fd65e2a31f4ad1823ea23ae217065f.php:84
+#: ../vendor/starlight/package-galleries/src/Starlight/PackageGalleries/Controllers/PackageGalleriesController.php:84
+msgid "Gallery deleted successfully"
+msgstr "Галерею успішно видалено"
+
+#: ../var/views/messages/c82b0075b4efd689f1edce0dd1ba9ee8.php:13
+msgid "Code"
+msgstr "Код"
+
+#: ../var/views/messages/c82b0075b4efd689f1edce0dd1ba9ee8.php:22
+msgid "Locale"
+msgstr "Мовне налаштування"
+
+#: ../var/views/messages/cac85ac5aa91665d0aeccf9dc4ef5e7b.php:1
+#: ../var/views/messages/cac85ac5aa91665d0aeccf9dc4ef5e7b.php:16
+msgid "Edit fragment"
+msgstr "Редагування фрагменту"
+
+#: ../var/views/messages/cac85ac5aa91665d0aeccf9dc4ef5e7b.php:21
+msgid "Delete fragment"
+msgstr "Видалити фрагмент"
+
+#: ../var/views/messages/cc203baeed70bada17f3f7a4b041251c.php:1
+msgid "Edit publications category"
+msgstr "Редагування категорії публікацій"
+
+#: ../var/views/messages/cc203baeed70bada17f3f7a4b041251c.php:12
+msgid "Delete publications category"
+msgstr "Видали категорію публікацій"
+
+#: ../var/views/messages/cc712d078d0d679afc9c7791b8f330fd.php:1
+#: ../var/views/messages/cc712d078d0d679afc9c7791b8f330fd.php:14
+msgid "Edit document"
+msgstr "Редагувати документ"
+
+#: ../var/views/messages/cc712d078d0d679afc9c7791b8f330fd.php:19
+msgid "Delete document"
+msgstr "Видалити документ"
+
+#: ../var/views/messages/ced78944362c9f822b71e8ae561640ed.php:42
+msgid "Logout"
+msgstr "Вийти"
+
+#: ../var/views/messages/d04a13ebb78d80b25281079687f82ffc.php:3
+msgid "There is no available publications"
+msgstr "Немає доступних публікацій"
+
+#: ../var/views/messages/d4052377878e5fb244bc6c4477e2dfdc.php:1
+msgid "Laboratories list"
+msgstr "Перелік лабораторій"
+
+#: ../var/views/messages/d4052377878e5fb244bc6c4477e2dfdc.php:11
+msgid "View laboratories list"
+msgstr "Перегляд переліку лабораторій"
+
+#: ../var/views/messages/d4052377878e5fb244bc6c4477e2dfdc.php:17
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:75
+msgid "Create laboratory"
+msgstr "Створити лабораторію"
+
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:1
+msgid "Laboratory add"
+msgstr "Додати лабораторію"
+
+#: ../var/views/messages/d6e3366942b6b246ccb7b4554fe5265e.php:17
+msgid "Add laboratory"
+msgstr "Додати лабораторію"
+
+#: ../var/views/messages/d8042ea700347f92987129a725503da4.php:1
+#: ../var/views/messages/d8042ea700347f92987129a725503da4.php:11
+msgid "Add setting"
+msgstr "Додати налаштування"
+
+#: ../var/views/messages/d96dc25e1157779629522186d0d6a8c3.php:1
+msgid "Password Reset"
+msgstr "Відновлення паролю"
+
+#: ../var/views/messages/d96dc25e1157779629522186d0d6a8c3.php:8
+msgid "Password Reset for"
+msgstr "Відновити пароль для"
+
+#: ../var/views/messages/d96dc25e1157779629522186d0d6a8c3.php:11
+msgid "New password"
+msgstr "Новий пароль"
+
+#: ../var/views/messages/d96dc25e1157779629522186d0d6a8c3.php:18
+msgid "Repeat new password"
+msgstr "Повторіть новий пароль"
+
+#: ../var/views/messages/d96dc25e1157779629522186d0d6a8c3.php:27
+msgid "Reset"
+msgstr "Відновити"
+
+#: ../var/views/messages/da0e65125dfedd7a01c036e34f5a4e63.php:1
+msgid ""
+"Someone requested that the password be reset for the following account on "
+"Starlight Control Center:"
+msgstr ""
+"Надійшов запит на відновлення паролю для наступного облікового запису в "
+"Центрі керування Starlight"
+
+#: ../var/views/messages/da0e65125dfedd7a01c036e34f5a4e63.php:4
+msgid "To reset your password, visit the following address:"
+msgstr "Для відновлення паролю перейдіть за наступним посиланням"
+
+#: ../var/views/messages/db19a70e0fb5fb910e69dabe79c9811d.php:2
+msgid "This lang version"
+msgstr "Поточна версія мови"
+
+#: ../var/views/messages/db19a70e0fb5fb910e69dabe79c9811d.php:5
+msgid "Translation"
+msgstr "Переклад"
+
+#: ../var/views/messages/e0e6009e144e0d312c062133d74aaed3.php:44
+#: ../vendor/starlight/package-users-teams-permissions/src/Starlight/PackageUsersTeamsPermissions/PackageUsersTeamsPermissionsServiceProvider.php:44
+msgid "Permissions"
+msgstr "Права доступу"
+
+#: ../var/views/messages/e0e6009e144e0d312c062133d74aaed3.php:45
+#: ../vendor/starlight/package-users-teams-permissions/src/Starlight/PackageUsersTeamsPermissions/PackageUsersTeamsPermissionsServiceProvider.php:45
+msgid "Manage"
+msgstr "Керувати"
+
+#: ../var/views/messages/e48e7b19157d1bb4a4b821e445f9defd.php:17
+msgid "Create item for"
+msgstr "Створити елемент для"
+
+#: ../var/views/messages/e48e7b19157d1bb4a4b821e445f9defd.php:40
+msgid "Create new gallery item"
+msgstr "Створити новий елемент галереї"
+
+#: ../var/views/messages/e4b628e9d585b52a1ad54c2ae368020b.php:6
+msgid "Search chairs"
+msgstr "Пошук кафедр"
+
+#: ../var/views/messages/e5e95c3976895e489c53b91274e6fbe3.php:8
+msgid "Overview"
+msgstr "Перегляд"
+
+#: ../var/views/messages/e5e95c3976895e489c53b91274e6fbe3.php:15
+msgid "Edit Profile"
+msgstr "Редагування профайлу"
+
+#: ../var/views/messages/e5e95c3976895e489c53b91274e6fbe3.php:22
+msgid "Account Settings"
+msgstr "Наташтування аккаунту"
+
+#: ../var/views/messages/eafe4c5dad68b18b0db4ba418178722d.php:2
+msgid "Related news:"
+msgstr "Пов’язані новини:"
+
+#: ../var/views/messages/eb49bc5bd1a780151647b09df716b282.php:13
+msgid "Password"
+msgstr "Пароль"
+
+#: ../var/views/messages/eb49bc5bd1a780151647b09df716b282.php:20
+msgid "Repeat password"
+msgstr "Повторіть пароль"
+
+#: ../var/views/messages/eb49bc5bd1a780151647b09df716b282.php:28
+msgid "First name"
+msgstr "Ім’я"
+
+#: ../var/views/messages/eb49bc5bd1a780151647b09df716b282.php:35
+msgid "Last name"
+msgstr "Прізвище"
+
+#: ../var/views/messages/eb49bc5bd1a780151647b09df716b282.php:42
+#: ../var/views/messages/ec37021b2de6cf559f24111ba2fe3ac8.php:32
+msgid "Description"
+msgstr "Опис"
+
+#: ../var/views/messages/ec37021b2de6cf559f24111ba2fe3ac8.php:10
+msgid "New Folder"
+msgstr "Нова папка"
+
+#: ../var/views/messages/ec37021b2de6cf559f24111ba2fe3ac8.php:47
+msgid "Create folder"
+msgstr "Створити папку"
+
+#: ../var/views/messages/eddf5a05d9fe2b527eec3be4f595b40e.php:1
+msgid "Settings list"
+msgstr "Перелік налаштувань"
+
+#: ../var/views/messages/eddf5a05d9fe2b527eec3be4f595b40e.php:11
+msgid "View settings list"
+msgstr "Перегляд переліку налаштувань"
+
+#: ../var/views/messages/eddf5a05d9fe2b527eec3be4f595b40e.php:15
+msgid "Create setting"
+msgstr "Створити налаштування"
+
+#: ../var/views/messages/f13a5ac429933052b39218d4e6cd8093.php:80
+#: ../var/views/messages/f3b1cfdc8b18cb0d405c1e0f196d22f7.php:80
+msgid "There is no available news by this request"
+msgstr "Немає доступних новин за цим запитом"
+
+#: ../var/views/messages/f1c70cc28542227fb4d66554bc177440.php:1
+msgid "Fragments list"
+msgstr "Перелік фрагментів"
+
+#: ../var/views/messages/f1c70cc28542227fb4d66554bc177440.php:11
+msgid "View fragments list"
+msgstr "Перегляд переліку фрагментів"
+
+#: ../var/views/messages/f1c70cc28542227fb4d66554bc177440.php:15
+msgid "Create fragment"
+msgstr "Створити фрагмент"
+
+#: ../var/views/messages/f526988d2be7516195761135522d3b94.php:1
+#: ../var/views/messages/f526988d2be7516195761135522d3b94.php:11
+msgid "List of publications categories"
+msgstr "Перелік категорій публікацій"
+
+#: ../var/views/messages/fe220a8db0df95046c1dea2de0fa8c9d.php:53
+msgid "Drop your photos here"
+msgstr "Перетягніть ваші фотографії сюди"
+
+#: ../var/views/messages/fe2e0530aed8c57d18f31bae6fb4042a.php:1
+#: ../var/views/messages/fe2e0530aed8c57d18f31bae6fb4042a.php:16
+msgid "Add page"
+msgstr "Додати сторінку"
+
+#: ../var/views/messages/fe2e0530aed8c57d18f31bae6fb4042a.php:41
+msgid "Create Page"
+msgstr "Створити сторінку"
+
+#~ msgid "Event created successfully"
+#~ msgstr "Подію успішно створено"
+
+#~ msgid "Event saved successfully"
+#~ msgstr "Подію успішно збережено"
+
+#~ msgid "Event deleted successfully"
+#~ msgstr "Подію успішно видалено"
+
+#~ msgid "Thumb"
+#~ msgstr "Мініатюра"
+
+#~ msgid "Cover"
+#~ msgstr "Заголовне фото"
+
+#~ msgid "Events"
+#~ msgstr "Події"
+
+#~ msgid "Expert created successfully"
+#~ msgstr "Експерта успішно створено"
+
+#~ msgid "Expert saved successfully"
+#~ msgstr "Експерта успішно збережено"
+
+#~ msgid "Expert deleted successfully"
+#~ msgstr "Експерта успішно видалено"
+
+#~ msgid "Experts"
+#~ msgstr "Експерти"
+
+#~ msgid "Project created successfully"
+#~ msgstr "Проект успішно створено"
+
+#~ msgid "Project saved successfully"
+#~ msgstr "Проект успішно збережено"
+
+#~ msgid "Project deleted successfully"
+#~ msgstr "Проект успішно видалено"
+
+#~ msgid "Projects"
+#~ msgstr "Проекти"
+
+#~ msgid "Search experts"
+#~ msgstr "Пошук експертів"
+
+#~ msgid "There is no available events by this request"
+#~ msgstr "Немає доступних подій по цьому запиту"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Project time"
+#~ msgstr "Час здійснення проекту"
+
+#~ msgid "Phone"
+#~ msgstr "Телефон"
+
+#~ msgid "Work place"
+#~ msgstr "Робоче місце"
+
+#~ msgid "Date"
+#~ msgstr "Дата"
+
+#~ msgid "Place"
+#~ msgstr "Місце"
+
+#~ msgid "Date of event"
+#~ msgstr "Дата події"
+
+#~ msgid "Event's publication time"
+#~ msgstr "Час публікації події"
+
+#~ msgid "There is no available experts by this request"
+#~ msgstr "Немає доступних експертів по цьому запиту"
+
+#~ msgid "Events list"
+#~ msgstr "Список подій"
+
+#~ msgid "Event"
+#~ msgstr "Подія"
+
+#~ msgid "View participants list"
+#~ msgstr "Переглянути список учасників"
+
+#~ msgid "View events list"
+#~ msgstr "Переглянути список подій"
+
+#~ msgid "Create event"
+#~ msgstr "Створити подію"
+
+#~ msgid "Profile"
+#~ msgstr "Профіль"
+
+#~ msgid "Project add"
+#~ msgstr "Додати проект"
+
+#~ msgid "Add project"
+#~ msgstr "Додати проект"
+
+#~ msgid "Create project"
+#~ msgstr "Створии проект"
+
+#~ msgid "Manage list"
+#~ msgstr "Редагувати список"
+
+#~ msgid "Loading items..."
+#~ msgstr "Завантаження елементів..."
+
+#~ msgid "list"
+#~ msgstr "список"
+
+#~ msgid "Expert edit"
+#~ msgstr "Редагувати експерта"
+
+#~ msgid "Delete expert"
+#~ msgstr "Видалити експерта"
+
+#~ msgid "Edit expert"
+#~ msgstr "Редагувати експерта"
+
+#~ msgid "Save expert"
+#~ msgstr "Зберегти експерта"
+
+#~ msgid "Event edit"
+#~ msgstr "Редагувати подію"
+
+#~ msgid "Delete event"
+#~ msgstr "Видалити подію"
+
+#~ msgid "Edit event"
+#~ msgstr "Редагувати подію"
+
+#~ msgid "Save event"
+#~ msgstr "Зберегти подію"
+
+#~ msgid "Projects list"
+#~ msgstr "Список проектів"
+
+#~ msgid "View projects list"
+#~ msgstr "Переглянути список проектів"
+
+#~ msgid "There is no available projects by this request"
+#~ msgstr "Немає доступних проектів по цьому запиту"
+
+#~ msgid "Residence"
+#~ msgstr "Місце проживання"
+
+#~ msgid "Activity"
+#~ msgstr "Діяльність"
+
+#~ msgid "Event add"
+#~ msgstr "Додати подію"
+
+#~ msgid "Add event"
+#~ msgstr "Додати подію"
+
+#~ msgid "Project edit"
+#~ msgstr "Редагувати проект"
+
+#~ msgid "Delete project"
+#~ msgstr "Видалити проект"
+
+#~ msgid "Edit project"
+#~ msgstr "Редагувати проект"
+
+#~ msgid "Save project"
+#~ msgstr "Зберегти проект"
+
+#~ msgid "There is no available experts"
+#~ msgstr "Немає доступних експертів"
+
+#~ msgid "Expert add"
+#~ msgstr "Додати експерта"
+
+#~ msgid "Add expert"
+#~ msgstr "Додати експерта"
+
+#~ msgid "New expert"
+#~ msgstr "Новий експерт"
+
+#~ msgid "Create new expert"
+#~ msgstr "Створити нового експерта"
+
+#~ msgid "Experts:"
+#~ msgstr "Експерти:"
+
+#~ msgid "Experts list"
+#~ msgstr "Список експертів"
+
+#~ msgid "View experts list"
+#~ msgstr "Переглянути список експертів"
+
+#~ msgid "Create expert"
+#~ msgstr "Створити експерта"
+
+#~ msgid "Author"
+#~ msgstr "Автор"
+
+#~ msgid "Photo by"
+#~ msgstr "Власник фотографії"
+
+#~ msgid "Source name"
+#~ msgstr "Джерело"
+
+#~ msgid "Source URL"
+#~ msgstr "URL джерела"
+
+#~ msgid "Internet Urls"
+#~ msgstr "URL"
+
+#~ msgid "Wikipedia Url"
+#~ msgstr "Wikipedia URL"
+
+#~ msgid "Blog Posts"
+#~ msgstr "Пости блогу"
+
+#~ msgid "Approved"
+#~ msgstr "Прийняті"
+
+#~ msgid "Pending"
+#~ msgstr "Очікують"
+
+#~ msgid "Blog post deleted successfully"
+#~ msgstr "Зміни в пості блогу відхилено"
+
+#~ msgid "Blog post was modified at this time"
+#~ msgstr "Пост було редаговано"
+
+#~ msgid "Blog post rejected successfully"
+#~ msgstr "Зміни в пості відхилено"
+
+#~ msgid "Blog post approved successfully"
+#~ msgstr "Зміни у пості прийнято успішно"
+
+#~ msgid "Articles"
+#~ msgstr "Статті"
+
+#~ msgid "Choices"
+#~ msgstr "Вибір редакції"
+
+#~ msgid "You can't mark this as chosen, if it is not active."
+#~ msgstr "Ви не можете додати у вибране, бо новина не активна"
+
+#~ msgid "Choice deleted successfully"
+#~ msgstr "Вибір редакції видалено"
+
+#~ msgid "Article created successfully"
+#~ msgstr "Статтю створено"
+
+#~ msgid "Article saved successfully"
+#~ msgstr "Статтю збережено"
+
+#~ msgid "Article deleted successfully"
+#~ msgstr "Статтю видалено"
+
+#~ msgid "Dossiers"
+#~ msgstr "Досье"
+
+#~ msgid "Dossier created successfully"
+#~ msgstr "Досьє створено"
+
+#~ msgid "Dossier saved successfully"
+#~ msgstr "Досьє збережено"
+
+#~ msgid "Dossier deleted successfully"
+#~ msgstr "Досьє видалено"
+
+#~ msgid "Newspapers PDF"
+#~ msgstr "Газети PDF"
+
+#~ msgid "New newspaper created successfully"
+#~ msgstr "Нова газета вдало створена"
+
+#~ msgid "Newspaper saved successfully"
+#~ msgstr "Газета вдало збережена"
+
+#~ msgid "Newspaper deleted successfully"
+#~ msgstr "Газета вдало видалена"
+
+#~ msgid "Pending blog post view"
+#~ msgstr "Перегляд посту на розгляді"
+
+#~ msgid "Pending blog posts"
+#~ msgstr "Дописи блогу на розгляд"
+
+#~ msgid "View pending post by:"
+#~ msgstr "Перегляд посту на розгляді:"
+
+#~ msgid "View in editors diff"
+#~ msgstr "Редагування"
+
+#~ msgid "View source diff"
+#~ msgstr "Переглянути зміни"
+
+#~ msgid "Approved Blog Post"
+#~ msgstr "Розглянуті та підтверджені пости"
+
+#~ msgid "Hash tags"
+#~ msgstr "Теги"
+
+#~ msgid "Pending Blog Post"
+#~ msgstr "Пости на розгляді"
+
+#~ msgid "Approved blog post title"
+#~ msgstr "Прийнятий заголовок"
+
+#~ msgid "Pending blog post title"
+#~ msgstr "Заголовок на розгляді"
+
+#~ msgid "Approved blog post subltitle"
+#~ msgstr "Прийнятий підзаголовок"
+
+#~ msgid "Pending blog post subtitle"
+#~ msgstr "Підзаголовок на розгляді"
+
+#~ msgid "Approved blog post body"
+#~ msgstr "Прийнятий текст допису"
+
+#~ msgid "Pending blog post body"
+#~ msgstr "Текст на розгляді"
+
+#~ msgid "Approve"
+#~ msgstr "Підтвердити"
+
+#~ msgid "Reject"
+#~ msgstr "Відхилити"
+
+#~ msgid "Article add"
+#~ msgstr "Додати статтю"
+
+#~ msgid "Add article"
+#~ msgstr "Додати статтю"
+
+#~ msgid "New article"
+#~ msgstr "Нова стаття"
+
+#~ msgid "Create new article"
+#~ msgstr "Створити нову статтю"
+
+#~ msgid "Create articles category"
+#~ msgstr "Створити категорію статті"
+
+#~ msgid "Articles Categories"
+#~ msgstr "Категорії статей"
+
+#~ msgid "Top 50"
+#~ msgstr "Топ 50"
+
+#~ msgid "Article edit"
+#~ msgstr "Редагування статті"
+
+#~ msgid "Delete article"
+#~ msgstr "Видалити статтю"
+
+#~ msgid "Edit article"
+#~ msgstr "Редагувати статтю"
+
+#~ msgid "Save article"
+#~ msgstr "Зберегти статтю"
+
+#~ msgid "Search dossiers"
+#~ msgstr "Пошук досьє"
+
+#~ msgid "There is no available articles"
+#~ msgstr "Немає доступних статей"
+
+#~ msgid "There is no available articles by this request"
+#~ msgstr "Статті за даним запитом відсутні"
+
+#~ msgid "Create Articles Category"
+#~ msgstr "Створити категорію статті"
+
+#~ msgid "Search articles"
+#~ msgstr "Пошук статей"
+
+#~ msgid "Add newspaper"
+#~ msgstr "Створити газету"
+
+#~ msgid "Newspapers"
+#~ msgstr "Газети"
+
+#~ msgid "Create Newspaper"
+#~ msgstr "Створити газету"
+
+#~ msgid "is own"
+#~ msgstr "Власна новина"
+
+#~ msgid "There is no available dossiers"
+#~ msgstr "Немає досьє"
+
+#~ msgid "Printed in"
+#~ msgstr "Надруковано в"
+
+#~ msgid "Select newspapers"
+#~ msgstr "Вибрати газету"
+
+#~ msgid "Edit newspaper"
+#~ msgstr "Редагувати газету"
+
+#~ msgid "Delete newspaper"
+#~ msgstr "Видалити газету"
+
+#~ msgid "Blog posts list"
+#~ msgstr "Пости блогу"
+
+#~ msgid "Blog posts"
+#~ msgstr "Пости блогу"
+
+#~ msgid "Dossier edit"
+#~ msgstr "Редагування досьє"
+
+#~ msgid "Delete dossier"
+#~ msgstr "Видалити досьє"
+
+#~ msgid "Edit dossier"
+#~ msgstr "Редагувати досьє"
+
+#~ msgid "Save dossier"
+#~ msgstr "Зберегти досьє"
+
+#~ msgid "Check Time"
+#~ msgstr "Час перевірки"
+
+#~ msgid "Moderator"
+#~ msgstr "Модератор"
+
+#~ msgid "View"
+#~ msgstr "Переглянути"
+
+#~ msgid "There is no available blog posts by this request"
+#~ msgstr "Пости блогу за даним запитом відсутні"
+
+#~ msgid "List of articles categories"
+#~ msgstr "Категорії статей"
+
+#~ msgid "Dossiers list"
+#~ msgstr "Досьє"
+
+#~ msgid "View dossiers list"
+#~ msgstr "Досьє"
+
+#~ msgid "Create dossier"
+#~ msgstr "Створити досьє"
+
+#~ msgid "is chosen"
+#~ msgstr "Вибір редакції"
+
+#~ msgid "Dossiers:"
+#~ msgstr "Досьє:"
+
+#~ msgid "Dossier add"
+#~ msgstr "Додати досьє"
+
+#~ msgid "Add dossier"
+#~ msgstr "Додати досьє"
+
+#~ msgid "New dossier"
+#~ msgstr "Нове досьє"
+
+#~ msgid "Create new dossier"
+#~ msgstr "Створити досьє"
+
+#~ msgid "Blog post view"
+#~ msgstr "Перегляд посту"
+
+#~ msgid "View blog post by:"
+#~ msgstr "Переглянути пости користувача:"
+
+#~ msgid "Delete blog post"
+#~ msgstr "Видалити пост блогу"
+
+#~ msgid "Approve time"
+#~ msgstr "Дата прийняття"
+
+#~ msgid "Articles list"
+#~ msgstr "Статті"
+
+#~ msgid "View articles list"
+#~ msgstr "Статті"
+
+#~ msgid "Create article"
+#~ msgstr "Створити статтю"
+
+#~ msgid "There is no available dossiers by this request"
+#~ msgstr "Досьє за даним запитом відсутні"
+
+#~ msgid "Related articles:"
+#~ msgstr "Схожі статті:"
+
+#~ msgid "Newspaper list"
+#~ msgstr "Список газет"
+
+#~ msgid "View newspapers list"
+#~ msgstr "Перегляд списку газет"
+
+#~ msgid "Create newspaper"
+#~ msgstr "Сторити газету"
+
+#~ msgid "List of choices"
+#~ msgstr "Доступні елементи"
+
+#~ msgid "Item is deleted."
+#~ msgstr "Елемент видалено"
+
+#~ msgid "Related"
+#~ msgstr "Пов’язані"
+
+#~ msgid "Groups"
+#~ msgstr "Групи"
+
+#~ msgid "Available Articles"
+#~ msgstr "Доступні статті"
+
+#~ msgid "Content"
+#~ msgstr "Контент"
+
+#~ msgid "Available News"
+#~ msgstr "Доступні новини"
+
+#~ msgid "Available Dossiers"
+#~ msgstr "Доступні досьє"
+
+#~ msgid " Upload files"
+#~ msgstr "Завантажити файли"
+
+#~ msgid "Lead"
+#~ msgstr "Лід"

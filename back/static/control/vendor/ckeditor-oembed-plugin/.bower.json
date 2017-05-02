@@ -1,0 +1,13 @@
+{
+  "name": "ckeditor-oembed-plugin",
+  "homepage": "https://github.com/w8tcha/CKEditor-oEmbed-Plugin",
+  "_release": "61d7aafe7f",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "61d7aafe7f0797696b01baa2261ddea423bee056"
+  },
+  "_source": "git://github.com/w8tcha/CKEditor-oEmbed-Plugin.git",
+  "_target": "*",
+  "_originalSource": "ckeditor-oembed-plugin"
+}
